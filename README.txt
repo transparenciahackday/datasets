@@ -23,16 +23,20 @@ coluna 4: Data de nascimento
 coluna 5: Profissão
 coluna 6: Data sem significado...
 
-listagem_partidos.csv
+partidos.csv
 coluna 1: Sigla
 coluna 2: Denominação
 coluna 3: Orientação Política
 coluna 4: Observações
 coluna 5: Inscrição (ano da inscrição oficial do partido)
 Coluna 6: Dissolução-Alteração (ano da dissolução ou alteração da denominação do partido); notar que alguns partidos não requereram a sua dissolução mas não apresentam actividade; quando não existe valor nesta coluna significa que o partido encontra-se em actividade
-Coluna 7: Candidaturas (número de eleições às quais o partido concorreu)
-Coluna 8: Website
-Coluna 9: Logo (existência ou não de um logótipo)
+Coluna 7: Morada
+Coluna 8: Localidade
+Coluna 9: Telefone (quando existem vários estão separados por vírgulas)
+Coluna 10: Fax
+Coluna 11: Website
+Coluna 12: Correio electrónico
+*Origem: dados recolhidos na Comissão Nacional de Eleições - www.cne.pt
 
 Facts.csv
 coluna 1: id de SQL
