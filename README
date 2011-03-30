@@ -1,0 +1,128 @@
+================================
+Datasets do Parlamento Português
+================================
+
+Transparência Hackday Porto 2010-2011
+
+Introdução
+==========
+
+Aqui estão listados os vários datasets que fomos fazendo no Transparência Hackday. A seguir a cada ficheiro estão descritas as diferentes colunas que lá podem ser encontradas.
+
+Na pasta 'imgs' estão as fotos dos deputados extraídas do site do Parlamento. Os nomes dos ficheiros são o valor numérico (ID) atribuído ao deputado no site do Parlamento. Este ID é também utilizado na maioria dos datasets para identificar inequivocamente cada pessoa.
+
+
+Descrições dos datasets
+=======================
+
+deputados-nomes.csv
+-------------------
+1. ID parlamento.pt
+2. Nome abreviado do/a deputado/a
+
+deputados-genero.csv
+--------------------
+1. ID parlamento.pt
+2. Género com base no nome (F para feminino, M para masculino e omissão para os que não foi possivel calcular o género)
+
+deputados.csv
+-------------
+1. ID SQL
+2. ID parlamento.pt
+3. Nome completo
+4. Data de nascimento
+5. Profissão
+6. Data em que foi feito o download da informação
+
+partidos.csv
+------------
+1. Sigla
+2. Denominação
+3. Orientação Política
+4. Observações
+5. Inscrição (ano da inscrição oficial do partido)
+6. Dissolução-Alteração (ano da dissolução ou alteração da denominação do partido); notar que alguns partidos não requereram a sua dissolução mas não apresentam actividade; quando não existe valor nesta significa que o partido encontra-se em actividade
+7. Morada
+8. Localidade
+9. Telefone (quando existem vários estão separados por vírgulas)
+10. Fax
+11. Website
+12. Correio electrónico
+
+factos.csv
+----------
+1. ID SQL
+2. ID parlamento.pt
+3. Tipo
+4. Descrição
+5. Data em que foi feito o download da informação
+
+regioes.csv
+-----------
+1. Nome do círculo eleitoral
+2. Sufixo de género a usar com a região (a, o, e, os), ex. "dos Açores", "da Madeira", "de Lisboa"
+
+legislaturas.csv
+----------------
+1. ID SQL
+2. ID parlamento.pt
+3. Legislatura em numeração romana
+4. Designação completa da legislatura com data de inicio e fim
+5. Cidade
+6. Partido
+7. Teve actividades nesta legislatura? (0. sim, 1. não)
+8. Tem registo de interesses associado a esta legislatura? (0. sim, 1. não)
+9. Data em que foi feito o download da informação
+
+actividades.csv
+---------------
+1. ID SQL
+2. ID parlamento.pt do/a deputado/a
+3. ?
+4. Tipo de actividade
+5. Descrição
+6. Número do decreto
+7. Sessão (?)
+8. Conteúdo
+9. Data em que foi feito o download
+10. ID externo
+
+links.csv
+---------
+1. ID parlamento.pt
+2. Nome, abreviado? FIXME
+3. Cargo, no governo? FIXME
+4. Email
+5. Wikipedia
+6. Facebook
+7. Twitter
+8. Blog
+9. Website
+10. Linkedin
+11. Twitica
+12. Programa de rádio
+13. Programa de televisão
+
+
+Fontes
+======
+
+A maioria da informação foi recolhida do site do Parlamento Português (http://parlamento.pt) com recurso a 'web scrapers' feitos à medida.
+
+A informação dos partidos foi recolhida do site da Comissão Nacional de Eleições (http://www.cne.pt).
+
+Foram feitas várias correcções e adendas à informação oficial.
+
+Créditos
+========
+
+Estes ficheiros foram compilados e revistos por:
+
+* Cláudia Amorim
+* Tiago Assis
+* Victor Cardoso
+* Ana Carvalho
+* Ricardo Lafuente
+* Eduardo Morais
+* Vítor Silva
+
