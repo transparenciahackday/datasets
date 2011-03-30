@@ -1,22 +1,23 @@
 "Governo"|"MP_id"|"Nome deputado"|"Nome do cargo"|"Data de início"|"Data de fim"
+"GC01"|3177|"Mário Soares"|"Primeiro-Ministro"|23-07-1976|22-01-1978
 "GC01"||"Albérico Santos Machado"|"Subsecretário de Estado da Habitação, Urbanismo e Construção"|23-07-1976|22-01-1978
 "GC01"||"Alfredo Nobre da Costa"|"Ministro da Indústria e Tecnologia"|23-07-1976|22-01-1978
 "GC01"||"Alfredo Nobre da Costa"|"Ministro da Indústria e Tecnologia"|25-03-1977|22-01-1978
 "GC01"||"Antero Monteiro Dinis"|"Subsecretário de Estado Adjunto do Primeiro-Ministro"|23-07-1976|22-01-1978
 "GC01"||"António Azevedo Gomes"|"Subsecretário de Estado das Florestas"|28-07-1976|05-11-1976
 "GC01"|2927|"António Barreto"|"Ministro do Comércio e Turismo"|23-07-1976|25-03-1977
-"GC01"|2927|"António Barreto"|"Ministro da Agricultura e Pescas"|23-07-1976|22-01-1978
+"GC01"|2927|"António Barreto"|"Ministro da Agricultura e Pescas"|05-11-1976|22-01-1978
 "GC01"|147|"António de Almeida Santos"|"Ministro da Justiça"|23-07-1976|22-01-1978
 "GC01"|318|"António Lopes Cardoso"|"Ministro da Agricultura e Pescas"|23-07-1976|05-11-1976
-"GC01"|3230|"António Maldonado Gonelha"|"Ministro do Trabalho"|23-07-1976|22-01-1978
+"GC01"|3230|"António Maldonado Gonelha"|"Ministro do Trabalho"|25-03-1977|22-01-1978
 "GC01"|3543|"António Sousa Gomes"|"Ministro do Plano e Coordenação Económica"|23-07-1976|22-01-1978
 "GC01"|3543|"António Sousa Gomes"|"Ministro da Indústria e Tecnologia"|07-01-1977|25-03-1977
 "GC01"|3691|"Armando Bacelar"|"Ministro dos Assuntos Sociais"|23-07-1976|22-01-1978
-"GC01"|3273|"Carlos Mota Pinto"|"Ministro do Comércio e Turismo"|23-07-1976|22-01-1978
+"GC01"|3273|"Carlos Mota Pinto"|"Ministro do Comércio e Turismo"|25-03-1977|22-01-1978
 "GC01"||"Custódio Simões"|"Subsecretário de Estado do Trabalho"|28-07-1976|12-10-1977
-"GC01"||"Eduardo Pereira"|"Ministro da Habitação, Urbanismo e Construção"|23-07-1976|22-01-1978
+"GC01"|164|"Eduardo Pereira"|"Ministro da Habitação, Urbanismo e Construção"|23-07-1976|22-01-1978
 "GC01"|3690|"Emílio Rui Vilar"|"Ministro dos Transportes e Comunicações"|23-07-1976|22-01-1978
-"GC01"||"Eurico Ferreira Nunes"|"Subsecretário de Estado das Finanças"|23-07-1976|22-01-1978
+"GC01"||"Eurico Ferreira Nunes"|"Subsecretário de Estado das Finanças"|25-03-1977|22-01-1978
 "GC01"|3186|"Francisco Marcelo Curto"|"Ministro do Trabalho"|23-07-1976|25-03-1977
 "GC01"|3656|"Henrique de Barros"|"Ministro de Estado"|23-07-1976|22-01-1978
 "GC01"||"Henrique Medina Carreira"|"Ministro das Finanças"|23-07-1976|22-01-1978
@@ -26,34 +27,33 @@
 "GC01"|3180|"Jorge Campinos"|"Ministro sem Pasta"|23-07-1976|22-01-1978
 "GC01"||"José Achando Cabral"|"Subsecretário de Estado do Tesouro"|28-07-1976|25-03-1977
 "GC01"|1467|"José Medeiros Ferreira"|"Ministro dos Negócios Estrangeiros"|23-07-1976|12-10-1977
-"GC01"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|23-07-1976|22-01-1978
+"GC01"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|25-03-1977|22-01-1978
 "GC01"||"Manuel da Costa Brás"|"Ministro da Administração Interna"|23-07-1976|22-01-1978
 "GC01"||"Mário Firmino Miguel"|"Ministro da Defesa Nacional"|23-07-1976|22-01-1978
-"GC01"|3177|"Mário Soares"|"Primeiro-Ministro"|23-07-1976|22-01-1978
-"GC01"|3177|"Mário Soares"|"Ministro dos Negócios Estrangeiros"|23-07-1976|05-11-1976
 "GC01"|3177|"Mário Soares"|"Ministro dos Negócios Estrangeiros"|12-10-1977|22-01-1978
 "GC01"|3055|"Mário Sottomayor Cardia"|"Ministro da Educação e Investigação Científica"|23-07-1976|22-01-1978
 "GC01"|3183|"Walter Rosa"|"Ministro da Indústria e Tecnologia"|23-07-1976|07-01-1977
-"GC02"|233|"Alberto Oliveira e Silva"|"Ministro da Administração Interna"|30-01-1978|27-02-1978
-"GC02"||"Alexandre Sobral Torres"|"Subsecretário de Estado Adjunto do Ministro das Finanças e Plano"|23-01-1978|27-08-1978
-"GC02"||"António Arnault"|"Ministro dos Assuntos Sociais"|23-01-1978|27-08-1978
-"GC02"|147|"António de Almeida Santos"|"Ministro Adjunto do Primeiro Ministro"|23-01-1978|27-08-1978
-"GC02"|3230|"António Maldonado Gonelha"|"Ministro do Trabalho"|23-01-1978|27-08-1978
-"GC02"||"António Sousa Gomes"|"Ministro da Habitação e Obras Públicas"|23-01-1978|27-08-1978
-"GC02"|1740|"Basílio Horta"|"Ministro do Comércio e Turismo"|23-01-1978|27-08-1978
-"GC02"|3154|"Carlos Melancia"|"Ministro da Indústria e Tecnologia"|23-01-1978|27-08-1978
-"GC02"|173|"Jaime Gama"|"Ministro da Administração Interna"|27-02-1978|27-08-1978
-"GC02"||"José de Oliveira Marques"|"Subsecretário de Estado do Tesouro"|23-01-1978|27-08-1978
-"GC02"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|23-01-1978|23-01-1978
-"GC02"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|06-02-1978|27-08-1978
-"GC02"|3200|"Luís Saias"|"Ministro da Agricultura e Pescas"|23-01-1978|27-08-1978
-"GC02"|3698|"Manuel Ferreira Lima"|"Ministro dos Transportes e Comunicações"|23-01-1978|27-08-1978
 "GC02"|3177|"Mário Soares"|"Primeiro-Ministro"|23-01-1978|27-08-1978
-"GC02"|3055|"Mário Sottomayor Cardia"|"Ministro da Educação e Cultura"|23-01-1978|27-08-1978
-"GC02"|3068|"Raúl Junqueiro"|"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura"|23-01-1978|27-08-1978
-"GC02"|3601|"Rui Pena"|"Ministro da Reforma Administrativa"|23-01-1978|27-08-1978
-"GC02"|3083|"Vitor Constâncio"|"Ministro das Finanças e Plano"|23-01-1978|27-08-1978
-"GC02"||"Vítor Sá Machado"|"Ministro dos Negócios Estrangeiros"|23-01-1978|27-08-1978
+"GC02"|233|"Alberto Oliveira e Silva"|"Ministro da Administração Interna"|30-01-1978|27-02-1978
+"GC02"||"Alexandre Sobral Torres"|"Subsecretário de Estado Adjunto do Ministro das Finanças e Plano"|06-02-1978|27-08-1978
+"GC02"||"António Arnault"|"Ministro dos Assuntos Sociais"|30-01-1978|27-08-1978
+"GC02"|147|"António de Almeida Santos"|"Ministro Adjunto do Primeiro Ministro"|30-01-1978|27-08-1978
+"GC02"|3230|"António Maldonado Gonelha"|"Ministro do Trabalho"|30-01-1978|27-08-1978
+"GC02"||"Mário Firmino Miguel"|"Ministro da Defesa Nacional"|30-01-1978|
+"GC02"||"António Sousa Gomes"|"Ministro da Habitação e Obras Públicas"|30-01-1978|27-08-1978
+"GC02"|1740|"Basílio Horta"|"Ministro do Comércio e Turismo"|30-01-1978|27-08-1978
+"GC02"|3154|"Carlos Melancia"|"Ministro da Indústria e Tecnologia"|30-01-1978|27-08-1978
+"GC02"|173|"Jaime Gama"|"Ministro da Administração Interna"|27-02-1978|27-08-1978
+"GC02"||"José de Oliveira Marques"|"Subsecretário de Estado do Tesouro"|27-02-1978|27-08-1978
+"GC02"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|06-02-1978|27-08-1978
+"GC02"||"José Santos Pais"|"Ministro da Justiça"|30-01-1978|27-08-1978
+"GC02"|3200|"Luís Saias"|"Ministro da Agricultura e Pescas"|30-01-1978|27-08-1978
+"GC02"|3698|"Manuel Ferreira Lima"|"Ministro dos Transportes e Comunicações"|30-01-1978|27-08-1978
+"GC02"|3055|"Mário Sottomayor Cardia"|"Ministro da Educação e Cultura"|27-02-1978|27-08-1978
+"GC02"|3068|"Raúl Junqueiro"|"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura"|21-06-1978|27-08-1978
+"GC02"|3601|"Rui Pena"|"Ministro da Reforma Administrativa"|30-01-1978|27-08-1978
+"GC02"|3083|"Vitor Constâncio"|"Ministro das Finanças e Plano"|30-01-1978|27-08-1978
+"GC02"||"Vítor Sá Machado"|"Ministro dos Negócios Estrangeiros"|30-01-1978|27-08-1978
 "GC03"||"Alfredo Nobre da Costa"|"Primeiro-Ministro"|28-08-1978|20-11-1978
 "GC03"||"Carlos Costa Freitas"|"Ministro Adjunto do Primeiro Ministro"|28-08-1978|20-11-1978
 "GC03"||"Mário Firmino Miguel"|"Ministro da Defesa Nacional"|28-08-1978|20-11-1978
@@ -69,8 +69,8 @@
 "GC03"||"Acácio Pereira Magro"|"Ministro dos Assuntos Sociais"|28-08-1978|20-11-1978
 "GC03"||"Amílcar Marques"|"Ministro dos Transportes e Comunicações"|28-08-1978|20-11-1978
 "GC03"||"João Almeida Pina"|"Ministro da Habitação e Obras Públicas"|28-08-1978|20-11-1978
-"GC03"||"Carlos Moura Pulido"|"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura"|28-08-1978|20-11-1978
-"GC03"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|28-08-1978|20-11-1978
+"GC03"||"Carlos Moura Pulido"|"Subsecretário de Estado Adjunto do Ministro da Educação e Cultura"|07-09-1978|20-11-1978
+"GC03"||"Ludovico Cândido"|"Subsecretário de Estado do Orçamento"|07-09-1978|20-11-1978
 "GC04"|3273|"Carlos Mota Pinto"|"Primeiro-Ministro"|21-11-1978|30-07-1979
 "GC04"||"Álvaro Monjardino"|"Ministro Adjunto do Primeiro Ministro"|21-11-1978|30-07-1979
 "GC04"||"José Alberto Loureiro dos Santos"|"Ministro da Defesa Nacional"|21-11-1978|30-07-1979
@@ -92,161 +92,371 @@
 "GC04"|3572|"Carlos Alberto Rosa"|"Subsecretário de Estado Adjunto do Ministro da Educação e Investigação Científica"|21-11-1978|30-07-1979
 "GC04"||"António Daniel"|"Subsecretário de Estado da Administração Escolar"|21-11-1978|30-07-1979
 "GC04"||"António Joaquim Carvalho"|"Subsecretário de Estado do Orçamento"|21-11-1978|30-07-1979
-"GC05"||"Maria de Lurdes Pintasilgo"|"Primeiro-Ministro"|31-07-1079|
-"GC05"||"Manuel da Costa Brás"|"Ministro Adjunto para a Administração Interna"|31-07-1079|
-"GC05"||"Alfredo Bruto da Costa"|"Ministro da Coordenação Social e dos Assuntos Sociais"|31-07-1079|
-"GC05"||"Alfredo Bruto da Costa"|"Ministro dos Assuntos Sociais"|31-07-1079|
-"GC05"||"José Alberto Loureiro dos Santos"|"Ministro da Defesa Nacional"|31-07-1079|
-"GC05"||"João de Freitas Cruz"|"Ministro dos Negócios Estrangeiros"|31-07-1079|
-"GC05"||"Pedro Sousa Macedo"|"Ministro da Justiça"|31-07-1079|
-"GC05"|3526|"António Sousa Franco"|"Ministro das Finanças"|31-07-1079|
-"GC05"|2953|"Carlos Corrêa Gago"|"Ministro da Coordenação Económica e do Plano"|31-07-1079|
-"GC05"|3805|"Joaquim da Silva Lourenço"|"Ministro da Agricultura e Pescas"|31-07-1079|
-"GC05"||"Fernando Videira"|"Ministro da Indústria"|31-07-1079|
-"GC05"||"Acácio Pereira Magro"|"Ministro do Comércio e Turismo"|31-07-1079|
-"GC05"||"Jorge Sá Borges"|"Ministro do Trabalho"|31-07-1079|
-"GC05"||"Frederico Monteiro da Silva"|"Ministro dos Transportes e Comunicações"|31-07-1079|
-"GC05"||"Mário de Azevedo"|"Ministro da Habitação e Obras Públicas"|31-07-1079|
-"GC05"||"Luís Veiga da Cunha"|"Ministro da Educação"|31-07-1079|
-"GC05"||"João Figueiredo"|"Ministro da Comunicação Social"|31-07-1079|
-"GC05"||"José Lima de Carvalho"|"Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas"|31-07-1079|
-"GC05"||"José Varela Pinto"|"Subsecretário de Estado Adjunto do Ministro dos Transportes e Comunicações"|31-07-1079|
-"GC05"||"Adérito Sedas Nunes"|"Ministro da Coordenação Cultural, Cultura e Ciência"|07-08-1079|
-"GC05"||"Adérito Sedas Nunes"|"Ministro da Cultura e Ciência"|07-08-1079|
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
-"GC06"|||||08-01-1981
+"GC05"||"Maria de Lurdes Pintasilgo"|"Primeiro-Ministro"|31-07-1079|02-01-1980
+"GC05"||"Manuel da Costa Brás"|"Ministro Adjunto para a Administração Interna"|31-07-1079|02-01-1980
+"GC05"||"Alfredo Bruto da Costa"|"Ministro da Coordenação Social e dos Assuntos Sociais"|31-07-1079|02-01-1980
+"GC05"||"Alfredo Bruto da Costa"|"Ministro dos Assuntos Sociais"|31-07-1079|02-01-1980
+"GC05"||"José Alberto Loureiro dos Santos"|"Ministro da Defesa Nacional"|31-07-1079|02-01-1980
+"GC05"||"João de Freitas Cruz"|"Ministro dos Negócios Estrangeiros"|31-07-1079|02-01-1980
+"GC05"||"Pedro Sousa Macedo"|"Ministro da Justiça"|31-07-1079|02-01-1980
+"GC05"|3526|"António Sousa Franco"|"Ministro das Finanças"|31-07-1079|02-01-1980
+"GC05"|2953|"Carlos Corrêa Gago"|"Ministro da Coordenação Económica e do Plano"|31-07-1079|02-01-1980
+"GC05"|3805|"Joaquim da Silva Lourenço"|"Ministro da Agricultura e Pescas"|31-07-1079|02-01-1980
+"GC05"||"Fernando Videira"|"Ministro da Indústria"|31-07-1079|02-01-1980
+"GC05"||"Acácio Pereira Magro"|"Ministro do Comércio e Turismo"|31-07-1079|02-01-1980
+"GC05"||"Jorge Sá Borges"|"Ministro do Trabalho"|31-07-1079|02-01-1980
+"GC05"||"Frederico Monteiro da Silva"|"Ministro dos Transportes e Comunicações"|31-07-1079|02-01-1980
+"GC05"||"Mário de Azevedo"|"Ministro da Habitação e Obras Públicas"|31-07-1079|02-01-1980
+"GC05"||"Luís Veiga da Cunha"|"Ministro da Educação"|31-07-1079|02-01-1980
+"GC05"||"João Figueiredo"|"Ministro da Comunicação Social"|31-07-1079|02-01-1980
+"GC05"||"José Lima de Carvalho"|"Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas"|31-07-1079|02-01-1980
+"GC05"||"José Varela Pinto"|"Subsecretário de Estado Adjunto do Ministro dos Transportes e Comunicações"|31-07-1079|02-01-1980
+"GC05"||"Adérito Sedas Nunes"|"Ministro da Coordenação Cultural, Cultura e Ciência"|07-08-1079|02-01-1980
+"GC05"||"Adérito Sedas Nunes"|"Ministro da Cultura e Ciência"|07-08-1079|02-01-1980
+"GC06"||"Francisco Sá Carneiro"|"Primeiro-Ministro"|03-01-1980|04-12-1980
+"GC06"|588|"Diogo Freitas do Amaral"|"Vice Primeiro-Ministro"|04-12-1980|08-01-1981
+"GC06"|588|"Diogo Freitas do Amaral"|"Primeiro-Ministro interino"|04-12-1980|08-01-1981
+"GC06"|588|"Diogo Freitas do Amaral"|"Ministro dos Negócios Estrangeiros"|03-01-1980|08-01-1981
+"GC06"|3158|"Francisco Pinto Balsemão"|"Ministro Adjunto do Primeiro Ministro"|03-01-1980|08-01-1981
+"GC06"|256|"Eurico de Melo"|"Ministro da Administração Interna"|03-01-1980|08-01-1981
+"GC06"||"Adelino Amaro da Costa"|"Ministro da Defesa"|03-01-1980|04-12-1980
+"GC06"||"Mário Raposo"|"Ministro da Justiça"|03-01-1980|08-01-1981
+"GC06"|312|"Aníbal Cavaco Silva"|"Ministro das Finanças e Plano"|03-01-1980|08-01-1981
+"GC06"|140|"Vítor Pereira Crespo"|"Ministro da Educação e Ciência"|03-01-1980|08-01-1981
+"GC06"||"Eusébio Marques de Carvalho"|"Ministro do Trabalho"|03-01-1980|08-01-1981
+"GC06"||"João Morais Leitão"|"Ministro dos Assuntos Sociais"|03-01-1980|08-01-1981
+"GC06"|3215|"António Cardoso e Cunha"|"Ministro da Agricultura e Pescas"|03-01-1980|08-01-1981
+"GC06"|1740|"Basílio Horta"|"Ministro do Comércio e Turismo"|03-01-1980|08-01-1981
+"GC06"|9|"Álvaro Barreto"|"Ministro da Indústria e Energia"|03-01-1980|08-01-1981
+"GC06"||"João Porto"|"Ministro da Habitação e Obras Públicas"|03-01-1980|08-01-1981
+"GC06"||"José Carlos Viana Baptista"|"Ministro dos Transportes e Comunicações"|03-01-1980|08-01-1981
 "GC07"|3158|"Francisco Pinto Balsemão"|"Primeiro-Ministro"|09-01-1981|03-09-1981
 "GC07"|1740|"Basílio Horta"|"Ministro de Estado Adjunto do Primeiro-Ministro"|09-01-1981|03-09-1981
 "GC07"|49|"Fernando do Amaral"|"Ministro da Administração Interna"|09-01-1981|03-09-1981
-"GC07"||"Luís de Azevedo Coutinho"|"Ministro da Defesa Nacional"|09-01-1981|03-09-1981
+"GC07"|3588|"Luís de Azevedo Coutinho"|"Ministro da Defesa Nacional"|09-01-1981|03-09-1981
 "GC07"||"André Gonçalves Pereira"|"Ministro dos Negócios Estrangeiros"|09-01-1981|03-09-1981
 "GC07"||"José Menéres Pimentel"|"Ministro da Justiça"|09-01-1981|03-09-1981
 "GC07"||"João Morais Leitão"|"Ministro das Finanças e Plano"|09-01-1981|03-09-1981
-"GC07"||"Vitor Pereira Crespo"|"Ministro da Educação e Ciência"|09-01-1981|03-09-1981
-"GC07"||"Henrique Nascimento Rodrigues"|"Ministro do Trabalho"|09-01-1981|03-09-1981
-"GC07"||"Carlos Chaves de Macedo"|"Ministro dos Assuntos Sociais"|09-01-1981|03-09-1981
-"GC07"||"António Cardoso e Cunha"|"Ministro da Agricultura e Pescas"|09-01-1981|03-09-1981
+"GC07"|140|"Vitor Pereira Crespo"|"Ministro da Educação e Ciência"|09-01-1981|03-09-1981
+"GC07"|3059|"Henrique Nascimento Rodrigues"|"Ministro do Trabalho"|09-01-1981|03-09-1981
+"GC07"|2957|"Carlos Chaves de Macedo"|"Ministro dos Assuntos Sociais"|09-01-1981|03-09-1981
+"GC07"|3215|"António Cardoso e Cunha"|"Ministro da Agricultura e Pescas"|09-01-1981|03-09-1981
 "GC07"||"Alexandre Vaz Pinto"|"Ministro do Comércio e Turismo"|09-01-1981|03-09-1981
 "GC07"||"Ricardo Bayão Horta"|"Ministro da Indústria e Energia"|09-01-1981|03-09-1981
-"GC07"||"Luís Barbosa"|"Ministro da Habitação e Obras Públicas"|09-01-1981|03-09-1981
+"GC07"|3420|"Luís Barbosa"|"Ministro da Habitação e Obras Públicas"|09-01-1981|03-09-1981
 "GC07"||"José Carlos Viana Baptista"|"Ministro dos Transportes e Comunicações"|09-01-1981|03-09-1981
 "GC07"||"João Vaz Serra de Moura"|"Ministro da Qualidade de Vida"|03-08-1981|03-09-1981
-"GC07"||"Augusto Ferreira do Amaral"|"Ministro da Qualidade de Vida"|09-01-1981|03-08-1981
-"GC07"||"Álvaro Barreto"|"Ministro da Integração Europeia"|09-01-1981|03-09-1981
-"GC07"||"José Bento Gonçalves"|"Subsecretário de Estado do Fomento Cooperativo"|09-01-1981|03-09-1981
+"GC07"|3264|"Augusto Ferreira do Amaral"|"Ministro da Qualidade de Vida"|09-01-1981|03-08-1981
+"GC07"|9|"Álvaro Barreto"|"Ministro da Integração Europeia"|09-01-1981|03-09-1981
+"GC07"|3288|"José Bento Gonçalves"|"Subsecretário de Estado do Fomento Cooperativo"|09-01-1981|03-09-1981
 "GC07"||"Maria de Lurdes Orfão"|"Subsecretário de Estado do Orçamento"|09-01-1981|03-09-1981
 "GC07"||"Eusébio Marques de Carvalho"|"Ministro da Reforma Administrativa"|09-01-1981|03-09-1981
-"GC08"||"Francisco Pinto Balsemão"|"Primeiro-Ministro"|04-09-1981|08-06-1983
-"GC08"||"Diogo Freitas do Amaral"|"Ministro da Defesa Nacional"|04-09-1981|08-06-1983
-"GC08"||"Diogo Freitas do Amaral"|"Vice Primeiro-Ministro"|04-09-1981|08-06-1983
+"GC08"|3158|"Francisco Pinto Balsemão"|"Primeiro-Ministro"|04-09-1981|08-06-1983
+"GC08"|588|"Diogo Freitas do Amaral"|"Ministro da Defesa Nacional"|04-09-1981|08-06-1983
+"GC08"|588|"Diogo Freitas do Amaral"|"Vice Primeiro-Ministro"|04-09-1981|08-06-1983
 "GC08"||"Gonçalo Ribeiro Telles"|"Ministro de Estado e da Qualidade de Vida"|04-09-1981|08-06-1983
-"GC08"||"João Salgueiro"|"Ministro de Estado, das Finanças e do Plano"|04-09-1981|08-06-1983
+"GC08"|3270|"João Salgueiro"|"Ministro de Estado, das Finanças e do Plano"|04-09-1981|08-06-1983
 "GC08"||"Marcelo Rebelo de Sousa"|"Ministro dos Assuntos Parlamentares"|12-06-1982|08-06-1983
-"GC08"||"Fernando do Amaral"|"Ministro Adjunto do Primeiro Ministro e dos Assuntos Parlamentares"|04-09-1981|12-06-1982
+"GC08"|49|"Fernando do Amaral"|"Ministro Adjunto do Primeiro Ministro e dos Assuntos Parlamentares"|04-09-1981|12-06-1982
 "GC08"||"Ângelo Correia"|"Ministro da Administração Interna"|04-09-1981|08-06-1983
 "GC08"||"Vasco Futscher Pereira"|"Ministro dos Negócios Estrangeiros"|09-06-1982|08-06-1983
 "GC08"||"André Gonçalves Pereira"|"Ministro dos Negócios Estrangeiros"|04-09-1981|09-06-1982
 "GC08"||"José Menéres Pimentel"|"Ministro da Justiça e da Reforma Administrativa"|04-09-1981|08-06-1983
 "GC08"||"João Fraústo da Silva"|"Ministro da Educação e das Universidades"|12-06-1982|08-06-1983
-"GC08"||"Vitor Pereira Crespo"|"Ministro da Educação e das Universidades"|04-09-1981|12-06-1982
+"GC08"|140|"Vitor Pereira Crespo"|"Ministro da Educação e das Universidades"|04-09-1981|12-06-1982
 "GC08"||"Luís Morales"|"Ministro do Trabalho"|12-06-1982|08-06-1983
 "GC08"||"António Queirós Martins"|"Ministro do Trabalho"|04-09-1981|12-06-1982
-"GC08"||"Luís Barbosa"|"Ministro dos Assuntos Sociais"|04-09-1981|08-06-1983
+"GC08"|3420|"Luís Barbosa"|"Ministro dos Assuntos Sociais"|04-09-1981|08-06-1983
 "GC08"|1740|"Basílio Horta"|"Ministro da Agricultura, Comércio e Pescas"|04-09-1981|08-06-1983
 "GC08"||"Ricardo Bayão Horta"|"Ministro da Indústria, Energia e Exportação"|04-09-1981|08-06-1983
-"GC08"||"Francisco Lucas Pires"|"Ministro da Cultura e Coordenação Científica"|04-09-1981|08-06-1983
+"GC08"|1429|"Francisco Lucas Pires"|"Ministro da Cultura e Coordenação Científica"|04-09-1981|08-06-1983
 "GC08"||"José Carlos Viana Baptista"|"Ministro da Habitação, Obras Públicas e Transportes"|04-09-1981|08-06-1983
 "GC08"||"Luísa Antas"|"Subsecretário de Estado Adjunto do Ministro dos Assuntos Parlamentares"|04-09-1981|08-06-1983
 "GC08"||"René Rodrigues da Silva"|"Subsecretário de Estado da Administração Escolar"|12-06-1982|08-06-1983
-"GC08"||"Amadeu Sá Menezes"|"Subsecretário de Estado da Agricultura"|12-06-1982|08-06-1983
+"GC08"|3559|"Amadeu Sá Menezes"|"Subsecretário de Estado da Agricultura"|12-06-1982|08-06-1983
 "GC08"||"Manuel Santana Castilho"|"Subsecretário de Estado dos Assuntos Pedagógicos"|12-06-1982|08-06-1983
 "GC08"||"Maria de Lurdes Orfão"|"Subsecretário de Estado do Orçamento"|04-09-1981|08-06-1983
 "GC08"||"Albino de Azevedo Soares"|"Subsecretário de Estado da Presidência do Conselho de Ministros"|04-09-1981|08-06-1983
 "GC08"||"Maria de Lurdes Orfão"|"Subsecretário de Estado do Orçamento"|04-09-1981|08-06-1983
 "GC09"|3177|"Mário Soares"|"Primeiro-Ministro"|09-06-1983|05-11-1985
-"GC09"||"Rui Machete"|"Vice Primeiro-Ministro"|15-02-1985|05-11-1985
-"GC09"||"Rui Machete"|"Ministro da Defesa Nacional"|15-02-1985|05-11-1985
-"GC09"||"Carlos Mota Pinto"|"Vice Primeiro-Ministro"|09-06-1983|15-02-1985
-"GC09"||"Carlos Mota Pinto"|"Ministro da Defesa Nacional"|09-06-1983|15-02-1985
-"GC09"||"António de Almeida Santos"|"Ministro de Estado"|09-06-1983|05-11-1985
-"GC09"||"Eduardo Pereira"|"Ministro da Administração Interna"|09-06-1983|05-11-1985
+"GC09"|134|"Rui Machete"|"Vice Primeiro-Ministro"|15-02-1985|05-11-1985
+"GC09"|134|"Rui Machete"|"Ministro da Defesa Nacional"|15-02-1985|05-11-1985
+"GC09"|3273|"Carlos Mota Pinto"|"Vice Primeiro-Ministro"|09-06-1983|15-02-1985
+"GC09"|3273|"Carlos Mota Pinto"|"Ministro da Defesa Nacional"|09-06-1983|15-02-1985
+"GC09"|147|"António de Almeida Santos"|"Ministro de Estado"|09-06-1983|05-11-1985
+"GC09"|164|"Eduardo Pereira"|"Ministro da Administração Interna"|09-06-1983|05-11-1985
 "GC09"|173|"Jaime Gama"|"Ministro dos Negócios Estrangeiros"|09-06-1983|05-11-1985
-"GC09"||"Mário Raposo"|"Ministro da Justiça"|15-02-1985|05-11-1985
-"GC09"||"Rui Machete"|"Ministro da Justiça"|09-06-1983|15-02-1985
+"GC09"|3054|"Mário Raposo"|"Ministro da Justiça"|15-02-1985|05-11-1985
+"GC09"|134|"Rui Machete"|"Ministro da Justiça"|09-06-1983|15-02-1985
 "GC09"||"Ernâni Lopes"|"Ministro das Finanças e Plano"|09-06-1983|05-11-1985
-"GC09"||"João de Deus Pinheiro"|"Ministro da Educação"|15-02-1985|05-11-1985
-"GC09"||"José Augusto Seabra"|"Ministro da Educação"|09-06-1983|15-02-1985
-"GC09"||"Amândio de Azevedo"|"Ministro do Trabalho e Segurança Social"|09-06-1983|05-11-1985
+"GC09"|334|"João de Deus Pinheiro"|"Ministro da Educação"|15-02-1985|05-11-1985
+"GC09"|3203|"José Augusto Seabra"|"Ministro da Educação"|09-06-1983|15-02-1985
+"GC09"|3239|"Amândio de Azevedo"|"Ministro do Trabalho e Segurança Social"|09-06-1983|05-11-1985
 "GC09"|3230|"António Maldonado Gonelha"|"Ministro da Saúde"|09-06-1983|05-11-1985
-"GC09"||"Álvaro Barreto"|"Ministro da Agricultura"|17-10-1984|05-11-1985
-"GC09"||"Manuel Soares Costa"|"Ministro da Agricultura, Florestas e Alimentação"|09-06-1983|17-10-1984
-"GC09"||"José Veiga Simão"|"Ministro da Indústria e Energia"|09-06-1983|05-11-1985
-"GC09"||"Joaquim Ferreira do Amaral"|"Ministro do Comércio e Turismo"|17-10-1984|05-11-1985
-"GC09"||"Álvaro Barreto"|"Ministro do Comércio e Turismo"|09-06-1983|17-10-1984
-"GC09"||"António Coimbra Martins"|"Ministro da Cultura"|09-06-1983|05-11-1985
+"GC09"|9|"Álvaro Barreto"|"Ministro da Agricultura"|17-10-1984|05-11-1985
+"GC09"|3042|"Manuel Soares Costa"|"Ministro da Agricultura, Florestas e Alimentação"|09-06-1983|17-10-1984
+"GC09"|3147|"José Veiga Simão"|"Ministro da Indústria e Energia"|09-06-1983|05-11-1985
+"GC09"|287|"Joaquim Ferreira do Amaral"|"Ministro do Comércio e Turismo"|17-10-1984|05-11-1985
+"GC09"|9|"Álvaro Barreto"|"Ministro do Comércio e Turismo"|09-06-1983|17-10-1984
+"GC09"|3240|"António Coimbra Martins"|"Ministro da Cultura"|09-06-1983|05-11-1985
 "GC09"|3154|"Carlos Melancia"|"Ministro do Equipamento Social"|15-02-1985|05-11-1985
-"GC09"||"João Rosado Correia"|"Ministro do Equipamento Social"|09-06-1983|15-02-1985
-"GC09"||"Francisco de Sousa Tavares"|"Ministro da Qualidade de Vida"|12-06-1984|05-11-1985
-"GC09"||"António Capucho"|"Ministro da Qualidade de Vida"|09-06-1983|12-06-1984
+"GC09"|3085|"João Rosado Correia"|"Ministro do Equipamento Social"|09-06-1983|15-02-1985
+"GC09"|3465|"Francisco de Sousa Tavares"|"Ministro da Qualidade de Vida"|12-06-1984|05-11-1985
+"GC09"|314|"António Capucho"|"Ministro da Qualidade de Vida"|09-06-1983|12-06-1984
 "GC09"||"José de Almeida Serra"|"Ministro do Mar"|15-02-1985|05-11-1985
 "GC09"|3154|"Carlos Melancia"|"Ministro do Mar"|09-06-1983|15-02-1985
 "GC09"||"Alberto Amorim Pereira"|"Subsecretário de Estado do Orçamento"|18-06-1983|05-11-1985
-"GC10"||"Aníbal Cavaco Silva"|"Primeiro-Ministro"|06-11-1985|16-08-1987
-"GC10"||"Eurico de Melo"|"Ministro de Estado"|06-11-1985|16-08-1987
-"GC10"||"Eurico de Melo"|"Ministro da Administração Interna"|06-11-1985|16-08-1987
-"GC10"||"Fernando Nogueira"|"Ministro Adjunto e para os Assuntos Parlamentares"|06-11-1985|16-08-1987
-"GC10"||"Leonardo Ribeiro de Almeida"|"Ministro da Defesa Nacional"|06-11-1985|16-08-1987
+"GC10"|312|"Aníbal Cavaco Silva"|"Primeiro-Ministro"|06-11-1985|16-08-1987
+"GC10"|256|"Eurico de Melo"|"Ministro de Estado"|06-11-1985|16-08-1987
+"GC10"|256|"Eurico de Melo"|"Ministro da Administração Interna"|06-11-1985|16-08-1987
+"GC10"|333|"Fernando Nogueira"|"Ministro Adjunto e para os Assuntos Parlamentares"|06-11-1985|16-08-1987
+"GC10"|94|"Leonardo Ribeiro de Almeida"|"Ministro da Defesa Nacional"|06-11-1985|16-08-1987
 "GC10"||"Pedro Pires de Miranda"|"Ministro dos Negócios Estrangeiros"|06-11-1985|16-08-1987
 "GC10"||"Miguel José Ribeiro Cadilhe"|"Ministro das Finanças"|06-11-1985|16-08-1987
-"GC10"||"Mário Raposo"|"Ministro da Justiça"|06-11-1985|16-08-1987
+"GC10"|3054|"Mário Raposo"|"Ministro da Justiça"|06-11-1985|16-08-1987
 "GC10"|376|"Luís Valente de Oliveira"|"Ministro do Plano e Administração do Território"|06-11-1985|16-08-1987
-"GC10"||"Álvaro Barreto"|"Ministro da Agricultura, Pescas e Alimentação"|06-11-1985|16-08-1987
+"GC10"|9|"Álvaro Barreto"|"Ministro da Agricultura, Pescas e Alimentação"|06-11-1985|16-08-1987
 "GC10"||"Fernando Santos Martins"|"Ministro da Indústria e Comércio"|06-11-1985|16-08-1987
-"GC10"||"João de Deus Pinheiro"|"Ministro da Educação e Cultura"|06-11-1985|16-08-1987
-"GC10"||"João Maria Oliveira Martins"|"Ministro das Obras Públicas, Transportes e Comunicações"|06-11-1985|16-08-1987
-"GC10"||"Leonor Beleza"|"Ministro da Saúde"|06-11-1985|16-08-1987
-"GC10"||"Luís Mira Amaral"|"Ministro do Trabalho e Segurança Social"|06-11-1985|16-08-1987
-"GC11"||"Aníbal Cavaco Silva"|"Primeiro-Ministro"|17-08-1987|30-10-1991
-"GC11"||"Fernando Nogueira"|"Ministro da Presidência"|17-08-1987|30-10-1991
-"GC11"||"Fernando Nogueira"|"Ministro da Defesa Nacional"|05-03-1990|30-10-1991
+"GC10"|334|"João de Deus Pinheiro"|"Ministro da Educação e Cultura"|06-11-1985|16-08-1987
+"GC10"|69|"João Maria Oliveira Martins"|"Ministro das Obras Públicas, Transportes e Comunicações"|06-11-1985|16-08-1987
+"GC10"|114|"Leonor Beleza"|"Ministro da Saúde"|06-11-1985|16-08-1987
+"GC10"|348|"Luís Mira Amaral"|"Ministro do Trabalho e Segurança Social"|06-11-1985|16-08-1987
+"GC11"|312|"Aníbal Cavaco Silva"|"Primeiro-Ministro"|17-08-1987|30-10-1991
+"GC11"|333|"Fernando Nogueira"|"Ministro da Presidência"|17-08-1987|30-10-1991
+"GC11"|333|"Fernando Nogueira"|"Ministro da Defesa Nacional"|05-03-1990|30-10-1991
 "GC11"||"Carlos Brito"|"Ministro da Defesa Nacional"|05-01-1990|05-03-1990
-"GC11"||"Eurico de Melo"|"Ministro da Defesa Nacional"|17-08-1987|05-01-1990
-"GC11"||"Eurico de Melo"|"Vice Primeiro-Ministro"|17-08-1987|05-01-1990
-"GC11"||"Manuel Dias Loureiro"|"Ministro dos Assuntos Parlamentares"|05-01-1990|30-10-1991
-"GC11"||"António Capucho"|"Ministro dos Assuntos Parlamentares"|17-08-1987|30-10-1991
+"GC11"|256|"Eurico de Melo"|"Ministro da Defesa Nacional"|17-08-1987|05-01-1990
+"GC11"|256|"Eurico de Melo"|"Vice Primeiro-Ministro"|17-08-1987|05-01-1990
+"GC11"|300|"Manuel Dias Loureiro"|"Ministro dos Assuntos Parlamentares"|05-01-1990|30-10-1991
+"GC11"|314|"António Capucho"|"Ministro dos Assuntos Parlamentares"|17-08-1987|30-10-1991
 "GC11"||"Miguel Beleza"|"Ministro das Finanças"|05-01-1990|30-10-1991
 "GC11"||"Miguel José Ribeiro Cadilhe"|"Ministro das Finanças"|17-08-1987|05-01-1990
 "GC11"|376|"Luís Valente de Oliveira"|"Ministro do Planeamento e Administração do Território"|17-08-1987|30-10-1991
 "GC11"||"Manuel Pereira"|"Ministro da Administração Interna"|05-01-1990|30-10-1991
 "GC11"||"José Silveira Godinho"|"Ministro da Administração Interna"|17-08-1987|05-01-1990
-"GC11"||"Álvaro Laborinho Lúcio"|"Ministro da Justiça"|05-03-1990|30-10-1991
-"GC11"||"Fernando Nogueira"|"Ministro da Justiça"|17-08-1987|30-10-1991
-"GC11"||"João de Deus Pinheiro"|"Ministro dos Negócios Estrangeiros"|17-08-1987|30-10-1991
-"GC11"||"Arlindo Cunha"|"Ministro da Agricultura, Pescas e Alimentação"|05-01-1990|30-10-1991
-"GC11"||"Álvaro Barreto"|"Ministro da Agricultura, Pescas e Alimentação"|17-08-1987|05-01-1990
-"GC11"||"Luís Mira Amaral"|"Ministro da Indústria e Energia"|17-08-1987|30-10-1991
+"GC11"|306|"Álvaro Laborinho Lúcio"|"Ministro da Justiça"|05-03-1990|30-10-1991
+"GC11"|333|"Fernando Nogueira"|"Ministro da Justiça"|17-08-1987|30-10-1991
+"GC11"|334|"João de Deus Pinheiro"|"Ministro dos Negócios Estrangeiros"|17-08-1987|30-10-1991
+"GC11"|335|"Arlindo Cunha"|"Ministro da Agricultura, Pescas e Alimentação"|05-01-1990|30-10-1991
+"GC11"|9|"Álvaro Barreto"|"Ministro da Agricultura, Pescas e Alimentação"|17-08-1987|05-01-1990
+"GC11"|348|"Luís Mira Amaral"|"Ministro da Indústria e Energia"|17-08-1987|30-10-1991
 "GC11"||"Roberto Carneiro"|"Ministro da Educação"|17-08-1987|30-10-1991
-"GC11"||"Joaquim Ferreira do Amaral"|"Ministro das Obras Públicas, Transportes e Comunicações"|09-11-1990|30-10-1991
-"GC11"||"João Maria Oliveira Martins"|"Ministro das Obras Públicas, Transportes e Comunicações"|17-08-1987|09-11-1990
-"GC11"||"Arlindo de Carvalho"|"Ministro da Saúde"|05-01-1990|30-10-1991
-"GC11"||"Leonor Beleza"|"Ministro da Saúde"|17-08-1987|05-01-1990
-"GC11"||"José Silva Peneda"|"Ministro do Emprego e da Segurança Social"|17-08-1987|30-10-1991
-"GC11"||"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|09-11-1990|30-10-1991
-"GC11"||"Joaquim Ferreira do Amaral"|"Ministro do Comércio e Turismo"|17-08-1987|09-11-1990
-"GC11"||"António Couto dos Santos"|"Ministro Adjunto da Juventude"|17-08-1987|30-10-1991
+"GC11"|287|"Joaquim Ferreira do Amaral"|"Ministro das Obras Públicas, Transportes e Comunicações"|09-11-1990|30-10-1991
+"GC11"|69|"João Maria Oliveira Martins"|"Ministro das Obras Públicas, Transportes e Comunicações"|17-08-1987|09-11-1990
+"GC11"|335|"Arlindo de Carvalho"|"Ministro da Saúde"|05-01-1990|30-10-1991
+"GC11"|114|"Leonor Beleza"|"Ministro da Saúde"|17-08-1987|05-01-1990
+"GC11"|270|"José Silva Peneda"|"Ministro do Emprego e da Segurança Social"|17-08-1987|30-10-1991
+"GC11"|293|"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|09-11-1990|30-10-1991
+"GC11"|287|"Joaquim Ferreira do Amaral"|"Ministro do Comércio e Turismo"|17-08-1987|09-11-1990
+"GC11"|356|"António Couto dos Santos"|"Ministro Adjunto da Juventude"|17-08-1987|30-10-1991
 "GC11"||"Carlos Borrego"|"Ministro do Ambiente e Recursos Naturais"|24-04-1991|30-10-1991
 "GC11"||"Fernando Real"|"Ministro do Ambiente e Recursos Naturais"|05-01-1990|30-10-1991
 "GC11"||"Duarte Ivo Cruz"|"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros"|05-03-1990|30-10-1991
-"GC11"||"Luís Marques Guedes"|"Subsecretário de Estado da Presidência do Conselho de Ministros"|09-01-1990|30-10-1991
+"GC11"|1239|"Luís Marques Guedes"|"Subsecretário de Estado da Presidência do Conselho de Ministros"|09-01-1990|30-10-1991
 "GC11"||"Isabel Corte Real"|"Subsecretário de Estado da Modernização Administrativa"|31-01-1989|30-10-1991
-"GC12"||||31-10-1991|
+"GC12"|312|"Aníbal Cavaco Silva"|"Primeiro-Ministro"|31-10-1991|27-10-1995
+"GC12"|370|"Luís Marques Mendes"|"Ministro Adjunto"|19-03-1992|27-10-1995
+"GC12"|356|"António Couto dos Santos"|"Ministro Adjunto e dos Assuntos Parlamentares"|31-10-1991|19-03-1992
+"GC12"|333|"Fernando Nogueira"|"Ministro da Presidência"|31-10-1991|27-10-1995
+"GC12"|1441|"António Figueiredo Lopes"|"Ministro da Defesa Nacional"|16-03-1995|27-10-1995
+"GC12"|333|"Fernando Nogueira"|"Ministro da Defesa Nacional"|31-10-1991|16-03-1995
+"GC12"|300|"Manuel Dias Loureiro"|"Ministro da Administração Interna"|31-10-1991|27-10-1995
+"GC12"||"Eduardo Catroga"|"Ministro das Finanças"|07-12-1993|27-10-1995
+"GC12"||"Jorge Braga de Macedo"|"Ministro das Finanças"|31-10-1991|07-12-1993
+"GC12"|376|"Luís Valente de Oliveira"|"Ministro do Planeamento e Administração do Território"|31-10-1991|27-10-1995
+"GC12"|306|"Álvaro Laborinho Lúcio"|"Ministro da Justiça"|31-10-1991|27-10-1995
+"GC12"|383|"José Manuel Durão Barroso"|"Ministro dos Negócios Estrangeiros"|12-11-1992|27-10-1995
+"GC12"|334|"João de Deus Pinheiro"|"Ministro dos Negócios Estrangeiros"|31-10-1991|12-11-1992
+"GC12"||"António Duarte Silva"|"Ministro da Agricultura"|21-05-1994|27-10-1995
+"GC12"|335|"Arlindo Cunha"|"Ministro da Agricultura"|31-10-1991|21-05-1994
+"GC12"||"António Duarte Silva"|"Ministro do Mar"|16-03-1995|27-10-1995
+"GC12"||"Eduardo Azevedo Soares"|"Ministro do Mar"|31-10-1991|16-03-1995
+"GC12"|348|"Luís Mira Amaral"|"Ministro da Indústria e Energia"|31-10-1991|27-10-1995
+"GC12"|319|"Manuela Ferreira Leite"|"Ministro da Educação"|07-12-1993|27-10-1995
+"GC12"|356|"António Couto dos Santos"|"Ministro da Educação"|19-03-1992|07-12-1993
+"GC12"||"Diamantino Durão"|"Ministro da Educação"|31-10-1991|19-03-1992
+"GC12"|287|"Joaquim Ferreira do Amaral"|"Ministro das Obras Públicas, Transportes e Comunicações"|31-10-1991|27-10-1995
+"GC12"|1234|"Paulo Mendo"|"Ministro da Saúde"|07-12-1993|27-10-1995
+"GC12"|335|"Arlindo de Carvalho"|"Ministro da Saúde"|31-10-1991|07-12-1993
+"GC12"|82|"José Falcão e Cunha"|"Ministro do Emprego e da Segurança Social"|07-12-1993|27-10-1995
+"GC12"|270|"José Silva Peneda"|"Ministro do Emprego e da Segurança Social"|31-10-1991|07-12-1993
+"GC12"|293|"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|31-10-1991|27-10-1995
+"GC12"|317|"Teresa Gouveia"|"Ministra do Ambiente e Recursos Naturais"|11-06-1993|27-10-1995
+"GC12"||"Carlos Borrego"|"Ministra do Ambiente e Recursos Naturais"|31-10-1991|11-06-1993
+"GC12"||"Carlos Coelho"|"Subsecretário de Estado Adjunto do Ministro da Educação"|25-07-1994|27-10-1995
+"GC12"||"Domingos Jerónimo"|"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros"|12-11-1992|27-10-1995
+"GC12"|1434|"Manuel Frexes"|"Subsecretário de Estado da Cultura"|12-11-1992|27-10-1995
+"GC12"|1239|"Luís Marques Guedes"|"Subsecretário de Estado Adjunto do Primeiro-Ministro"|05-11-1991|07-12-1993
+"GC12"||"Vasco Valdez"|"Subsecretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento"|05-11-1991|07-12-1993
+"GC12"||"Duarte Ivo Cruz"|"Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros"|05-11-1991|12-11-1992
+"GC12"||"José Manuel Costa e Oliveira"|"Subsecretário de Estado Adjunto Ministro da Agricultura"|05-11-1991|07-12-1993
+"GC12"||"Amândio Oliveira"|"Subsecretário de Estado Adjunto do Secretário de Estado da Presidência do Conselho de Ministros"|05-11-1991|27-10-1995
+"GC12"|1084|"Maria José Nogueira Pinto"|"Subsecretário de Estado Adjunto do Secretário de Estado para a Cultura"|05-11-1991|12-11-1992
+"GC12"||"António Sousa Lara"|"Subsecretário de Estado da Cultura"|05-11-1991|12-11-1992
+"GC12"||"Paulo Teixeira Pinto"|"Subsecretário de Estado da Presidência do Conselho de Ministros"|05-11-1991|09-06-1992
+"GC13"|628|"António Guterres"|"Primeiro-Ministro"|28-10-1995|24-10-1999
+"GC13"|285|"José Sócrates"|"Ministro Adjunto do Primeiro Ministro"|25-11-1997|24-10-1999
+"GC13"|156|"António Costa"|"Ministro dos Assuntos Parlamentares"|25-11-1997|24-10-1999
+"GC13"|173|"Jaime Gama"|"Ministro da Defesa Nacional"|29-05-1999|24-10-1999
+"GC13"||"José da Veiga Simão"|"Ministro da Defesa Nacional"|25-11-1997|29-05-1999
+"GC13"|1205|"António Vitorino"|"Ministro da Defesa Nacional"|30-10-1995|25-11-1997
+"GC13"|1205|"António Vitorino"|"Ministro da Presidência"|30-10-1995|25-11-1997
+"GC13"|173|"Jaime Gama"|"Ministro dos Negócios Estrangeiros"|28-10-1995|24-10-1999
+"GC13"|3526|"António Sousa Franco"|"Ministro das Finanças"|28-10-1995|24-10-1999
+"GC13"|180|"Jorge Coelho"|"Ministro da Administração Interna"|25-11-1997|24-10-1999
+"GC13"|143|"Alberto Costa"|"Ministro da Administração Interna"|30-10-1995|25-11-1997
+"GC13"|180|"Jorge Coelho"|"Ministro Adjunto"|30-10-1995|24-10-1999
+"GC13"|459|"João Cravinho"|"Ministro do Equipamento, Planeamento e Administração do Território"|28-10-1995|24-10-1999
+"GC13"|185|"José Vera Jardim"|"Ministro da Justiça"|28-10-1995|24-10-1999
+"GC13"|1267|"Joaquim Pina Moura"|"Ministro da Economia"|25-11-1997|24-10-1999
+"GC13"||"Augusto Mateus"|"Ministro da Economia"|27-03-1996|25-11-1997
+"GC13"|1261|"Daniel Bessa"|"Ministro da Economia"|28-10-1995|27-03-1996
+"GC13"|197|"Luís Capoulas Santos"|"Ministro da Agricultura, Desenvolvimento Rural e das Pescas"|03-10-1998|24-10-1999
+"GC13"||"Fernando Gomes da Silva"|"Ministro da Agricultura, Desenvolvimento Rural e das Pescas"|30-10-1995|03-10-1998
+"GC13"||"Eduardo Marçal Grilo"|"Ministro da Educação"|28-10-1995|24-10-1999
+"GC13"|1671|"Maria de Belém Roseira"|"Ministro da Saúde"|28-10-1995|24-10-1999
+"GC13"|163|"Eduardo Ferro Rodrigues"|"Ministro do Trabalho e Solidariedade"|28-10-1995|24-10-1999
+"GC13"|1676|"Elisa Ferreira"|"Ministro do Ambiente"|28-10-1995|24-10-1999
+"GC13"|738|"Manuel Maria Carrilho"|"Ministro da Cultura"|28-10-1995|24-10-1999
+"GC13"||"Mariano Gago"|"Ministro da Ciência e Tecnologia"|28-10-1995|24-10-1999
+"GC13"||"Henrique Constantino"|"Ministro do Equipamento Social"|30-10-1995|27-12-1995
+"GC13"||"Francisco Murteira Nabo"|"Ministro do Equipamento Social"|27-12-1995|15-01-1996
+"GC13"||"Maria João Rodrigues"|"Ministro da Qualificação e Emprego"|30-10-1995|25-11-1997
+"GC14"|628|"António Guterres"|"Primeiro-Ministro"|25-10-1999|05-04-2002
+"GC14"|173|"Jaime Gama"|"Ministro de Estado"|25-10-1999|05-04-2002
+"GC14"|180|"Jorge Coelho"|"Ministro de Estado"|14-09-2000|10-03-2001
+"GC14"|173|"Jaime Gama"|"Ministro dos Negócios Estrangeiros"|25-10-1999|05-04-2002
+"GC14"|180|"Jorge Coelho"|"Ministro da Presidência"|25-10-1999|14-09-2000
+"GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro da Presidência"|14-09-2000|05-04-2002
+"GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro das Finanças"|03-07-2001|05-04-2002
+"GC14"||"Joaquim Pina Moura"|"Ministro das Finanças"|25-10-1999|03-07-2001
+"GC14"|3601|"Rui Pena"|"Ministro da Defesa Nacional"|03-07-2001|05-04-2002
+"GC14"|3494|"Júlio Castro Caldas"|"Ministro da Defesa Nacional"|25-10-1999|03-07-2001
+"GC14"||"Nuno Severiano Teixeira"|"Ministro da Administração Interna"|14-09-2000|05-04-2002
+"GC14"|1260|"Fernando Gomes"|"Ministro da Administração Interna"|25-10-1999|14-09-2000
+"GC14"|180|"Jorge Coelho"|"Ministro do Equipamento Social"|25-10-1999|10-03-2001
+"GC14"|163|"Eduardo Ferro Rodrigues"|"Ministro do Equipamento Social"|10-03-2001|23-01-2002
+"GC14"|285|"José Sócrates"|"Ministro do Equipamento Social"|23-01-2002|05-04-2002
+"GC14"|285|"José Sócrates"|"Ministro do Ambiente e do Ordenamento do Território"|25-10-1999|05-04-2002
+"GC14"|156|"António Costa"|"Ministro da Justiça"|25-10-1999|05-04-2002
+"GC14"|2090|"Luís Braga da Cruz"|"Ministro da Economia"|03-07-2001|05-04-2002
+"GC14"||"Mário Cristina de Sousa"|"Ministro da Economia"|14-09-2000|03-07-2001
+"GC14"||"Joaquim Pina Moura"|"Ministro da Economia"|25-10-1999|14-09-2000
+"GC14"|1676|"Elisa Ferreira"|"Ministra do Planeamento"|25-10-1999|05-04-2002
+"GC14"|197|"Luís Capoulas Santos"|"Ministro da Agricultura, Desenvolvimento Rural e Pescas"|25-10-1999|05-04-2002
+"GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro da Educação"|25-10-1999|14-09-2000
+"GC14"||"Júlio Pedrosa"|"Ministro da Educação"|03-07-2001|05-04-2002
+"GC14"|1278|"Augusto Santos Silva"|"Ministro da Educação"|14-09-2000|03-07-2001
+"GC14"|1345|"Manuela Arcanjo"|"Ministro da Saúde"|25-10-1999|03-07-2001
+"GC14"|153|"António Correia de Campos"|"Ministro da Saúde"|03-07-2001|05-04-2002
+"GC14"|163|"Eduardo Ferro Rodrigues"|"Ministro do Trabalho e da Solidariedade"|25-10-1999|10-03-2001
+"GC14"||"Paulo Pedroso"|"Ministro do Trabalho e da Solidariedade"|10-03-2001|05-04-2002
+"GC14"|738|"Manuel Maria Carrilho"|"Ministro da Cultura"|25-10-1999|12-07-2000
+"GC14"||"José Sasportes"|"Ministro da Cultura"|12-07-2000|03-07-2001
+"GC14"|1278|"Augusto Santos Silva"|"Ministro da Cultura"|03-07-2001|05-04-2002
+"GC14"||"Mariano Gago"|"Ministro da Ciência e da Tecnologia"|25-10-1999|05-04-2002
+"GC14"|462|"Alberto Martins"|"Ministro da Reforma do Estado e da Administração Pública"|25-10-1999|05-04-2002
+"GC14"|187|"José Lello"|"Ministro da Juventude e do Desporto"|18-12-2000|05-04-2002
+"GC14"|158|"Armando Vara"|"Ministro da Juventude e do Desporto"|14-09-2000|18-12-2000
+"GC14"|158|"Armando Vara"|"Ministro Adjunto do Primeiro-Ministro"|25-10-1999|14-09-2000
+"GC14"|155|"António José Seguro"|"Ministro Adjunto do Primeiro-Ministro"|03-07-2001|05-04-2002
+"GC14"|1260|"Fernando Gomes"|"Ministro Adjunto"|25-10-1999|14-09-2000
+"GC14"||"Maria do Céu Cunha Rego"|"Secretário de Estado para a Igualdade"|04-07-2001|05-04-2002
+"GC14"|1671|"Maria de Belém Roseira"|"Ministro da Igualdade"|25-10-1999|14-09-2000
+"GC15"|383|"José Manuel Durão Barroso"|"Primeiro-Ministro"|06-04-2002|16-07-2004
+"GC15"|319|"Manuela Ferreira Leite"|"Ministra de Estado"|06-04-2002|16-07-2004
+"GC15"|319|"Manuela Ferreira Leite"|"Ministra das Finanças"|06-04-2002|16-07-2004
+"GC15"|1352|"Paulo Portas"|"Ministro de Estado"|06-04-2002|16-07-2004
+"GC15"|1352|"Paulo Portas"|"Ministro da Defesa Nacional"|06-04-2002|16-07-2004
+"GC15"||"António Martins da Cruz"|"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas"|06-04-2002|09-10-2003
+"GC15"|317|"Teresa Gouveia"|"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas"|09-10-2003|16-07-2004
+"GC15"|1441|"António Figueiredo Lopes"|"Ministro da Administração Interna"|06-04-2002|16-07-2004
+"GC15"|1625|"Celeste Cardona"|"Ministra da Justiça"|06-04-2002|16-07-2004
+"GC15"|1980|"Nuno Morais Sarmento"|"Ministro da Presidência"|06-04-2002|16-07-2004
+"GC15"|370|"Luís Marques Mendes"|"Ministro dos Assuntos Parlamentares"|06-04-2002|16-07-2004
+"GC15"|1638|"José Luís Arnaut"|"Ministro Adjunto do Primeiro-Ministro"|06-04-2002|16-07-2004
+"GC15"||"Carlos Tavares"|"Ministro da Economia"|06-04-2002|16-07-2004
+"GC15"||"Armando Sevinate Pinto"|"Ministro da Agricultura, Desenvolvimento Rural e Pescas"|06-04-2002|16-07-2004
+"GC15"|1640|"David Justino"|"Ministro da Educação"|06-04-2002|16-07-2004
+"GC15"||"Maria da Graça Carvalho"|"Ministra da Ciência e do Ensino Superior"|06-10-2003|16-07-2004
+"GC15"|4085|"Pedro Lynce"|"Ministra da Ciência e do Ensino Superior"|06-04-2002|06-10-2003
+"GC15"|128|"Pedro Roseta"|"Ministro da Cultura"|06-04-2002|16-07-2004
+"GC15"||"Luís Filipe Pereira"|"Ministro da Saúde"|06-04-2002|16-07-2004
+"GC15"|3399|"António Bagão Félix"|"Ministro da Segurança Social e Trabalho"|06-04-2002|16-07-2004
+"GC15"|376|"Luís Valente de Oliveira"|"Ministro das Obras Públicas, Transportes e Habitação"|06-04-2002|05-04-2003
+"GC15"||"António Carmona Rodrigues"|"Ministro das Obras Públicas, Transportes e Habitação"|05-04-2003|16-07-2004
+"GC15"|1130|"Isaltino Morais"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|06-04-2002|05-04-2003
+"GC15"|335|"Arlindo Cunha"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|21-05-2004|16-07-2004
+"GC15"||"Amílcar Theias"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|05-04-2003|21-05-2004
+"GC16"|315|"Pedro Santana Lopes"|"Primeiro-Ministro"|17-07-2004|11-03-2005
+"GC16"|9|"Álvaro Barreto"|"Ministro de Estado"|17-07-2004|11-03-2005
+"GC16"|9|"Álvaro Barreto"|"Ministro das Actividades Económicas e do Trabalho"|17-07-2004|11-03-2005
+"GC16"|1352|"Paulo Portas"|"Ministro de Estado"|17-07-2004|11-03-2005
+"GC16"|1352|"Paulo Portas"|"Ministro da Defesa Nacional e dos Assuntos do Mar"|17-07-2004|11-03-2005
+"GC16"|1980|"Nuno Morais Sarmento"|"Ministro de Estado"|17-07-2004|11-03-2005
+"GC16"|1980|"Nuno Morais Sarmento"|"Ministro da Presidência"|17-07-2004|11-03-2005
+"GC16"|3399|"António Bagão Félix"|"Ministro das Finanças e da Administração Pública"|17-07-2004|11-03-2005
+"GC16"||"António Monteiro"|"Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas"|17-07-2004|11-03-2005
+"GC16"||"Daniel Sanches"|"Ministro da Administração Interna"|17-07-2004|11-03-2005
+"GC16"||"José Pedro Aguiar-Branco"|"Ministro da Justiça"|17-07-2004|11-03-2005
+"GC16"|1638|"José Luís Arnaut"|"Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional"|17-07-2004|11-03-2005
+"GC16"||"Carlos da Costa Neves"|"Ministro da Agricultura, Pescas e Florestas"|17-07-2004|11-03-2005
+"GC16"||"Maria do Carmo Seabra"|"Ministra da Educação"|17-07-2004|11-03-2005
+"GC16"||"Maria da Graça Carvalho"|"Ministra da Ciência, Inovação e Ensino Superior"|17-07-2004|11-03-2005
+"GC16"||"Luís Filipe Pereira"|"Ministro da Saúde"|17-07-2004|11-03-2005
+"GC16"|1905|"Fernando Negrão"|"Ministro da Segurança Social, da Família e da Criança"|17-07-2004|11-03-2005
+"GC16"||"António Mexia"|"Ministro das Obras Públicas, Transportes e Comunicações"|17-07-2004|11-03-2005
+"GC16"||"Maria João Bustorff"|"Ministra da Cultura"|17-07-2004|11-03-2005
+"GC16"|1083|"Luís Nobre Guedes"|"Ministro do Ambiente e do Ordenamento do Território"|17-07-2004|11-03-2005
+"GC16"|1655|"Telmo Correia"|"Ministro do Turismo"|17-07-2004|11-03-2005
+"GC16"|133|"Rui Gomes da Silva"|"Ministro Adjunto do Primeiro-Ministro"|02-12-2004|11-03-2005
+"GC16"|133|"Rui Gomes da Silva"|"Ministro dos Assuntos Parlamentares"|21-07-2004|02-12-2004
+"GC16"|1645|"Henrique Chaves"|"Ministro Adjunto do Primeiro-Ministro"|17-07-2004|02-12-2004
+"GC17"|285|"José Sócrates"|"Primeiro-Ministro"|12-03-2005|25-10-2009
+"GC17"|538|"Luís Amado"|"Ministro de Estado"|03-07-2006|25-10-2009
+"GC17"|588|"Diogo Freitas do Amaral"|"Ministro de Estado"|12-03-2005|03-07-2006
+"GC17"|538|"Luís Amado"|"Ministro dos Negócios Estrangeiros"|03-07-2006|25-10-2009
+"GC17"|588|"Diogo Freitas do Amaral"|"Ministro dos Negócios Estrangeiros"|12-03-2005|03-07-2006
+"GC17"|4132|"Teixeira dos Santos"|"Ministro de Estado"|21-07-2005|25-10-2009
+"GC17"|156|"António Costa"|"Ministro de Estado"|12-03-2005|17-05-2007
+"GC17"||"Luís Campos e Cunha"|"Ministro de Estado"|12-03-2005|21-07-2005
+"GC17"||"Luís Campos e Cunha"|"Ministro das Finanças"|12-03-2005|21-07-2005
+"GC17"|4132|"Teixeira dos Santos"|"Ministro das Finanças"|21-07-2005|25-10-2009
+"GC17"|2050|"Manuel Pinho"|"Ministro da Economia e da Inovação"|12-03-2005|06-07-2009
+"GC17"|4132|"Teixeira dos Santos"|"Ministro da Economia e da Inovação"|06-07-2009|25-10-2009
+"GC17"|2011|"Pedro Silva Pereira"|"Ministro da Presidência"|12-03-2005|25-10-2009
+"GC17"|538|"Luís Amado"|"Ministro da Defesa Nacional"|12-03-2005|03-07-2006
+"GC17"||"Nuno Severiano Teixeira"|"Ministro da Defesa Nacional"|03-07-2006|25-10-2009
+"GC17"||"Rui Pereira"|"Ministro da Administração Interna"|17-05-2007|25-10-2009
+"GC17"|156|"António Costa"|"Ministro da Administração Interna"|12-03-2005|17-05-2007
+"GC17"|143|"Alberto Costa"|"Ministro da Justiça"|12-03-2005|25-10-2009
+"GC17"||"Francisco Nunes Correia"|"Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional"|12-03-2005|25-10-2009
+"GC17"||"Jaime Silva"|"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas"|12-03-2005|25-10-2009
+"GC17"||"Mário Lino"|"Ministro das Obras Públicas, Transportes e Comunicações"|12-03-2005|25-10-2009
+"GC17"|1867|"José Vieira da Silva"|"Ministro do Trabalho e da Solidariedade Social"|12-03-2005|25-10-2009
+"GC17"|153|"António Correia de Campos"|"Ministra da Saúde"|12-03-2005|30-01-2008
+"GC17"|3986|"Ana Jorge"|"Ministra da Saúde"|30-01-2008|25-10-2009
+"GC17"||"Maria de Lurdes Rodrigues"|"Ministra da Educação"|12-03-2005|25-10-2009
+"GC17"||"Mariano Gago"|"Ministro da Ciência, Tecnologia e Ensino Superior"|12-03-2005|25-10-2009
+"GC17"|1672|"Isabel Pires de Lima"|"Ministro da Cultura"|12-03-2005|30-01-2008
+"GC17"||"José António Pinto Ribeiro"|"Ministro da Cultura"|30-01-2008|25-10-2009
+"GC17"|1278|"Augusto Santos Silva"|"Ministro dos Assuntos Parlamentares"|12-03-2005|25-10-2009
+"GC18"|285|"José Sócrates"|"Primeiro-Ministro"|26-10-2009|
+"GC18"|538|"Luís Amado"|"Ministro de Estado"|26-10-2009|
+"GC18"|538|"Luís Amado"|"Ministro dos Negócios Estrangeiros"|26-10-2009|
+"GC18"|4132|"Teixeira dos Santos"|"Ministro de Estado"|26-10-2009|
+"GC18"|4132|"Teixeira dos Santos"|"Ministro das Finanças"|26-10-2009|
+"GC18"|2011|"Pedro Silva Pereira"|"Ministro da Presidência"|26-10-2009|
+"GC18"|1278|"Augusto Santos Silva"|"Ministro da Defesa Nacional"|26-10-2009|
+"GC18"||"Rui Pereira"|"Ministro da Administração Interna"|26-10-2009|
+"GC18"|462|"Alberto Martins"|"Ministro da Justiça"|26-10-2009|
+"GC18"|1867|"José Vieira da Silva"|"Ministro da Economia, da Inovação e do Desenvolvimento"|26-10-2009|
+"GC18"||"António Serrano"|"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas"|26-10-2009|
+"GC18"||"António Mendonça"|"Ministro das Obras Públicas, Transportes e Comunicações"|26-10-2009|
+"GC18"||"Dulce Pássaro"|"Ministra do Ambiente e do Ordenamento do Território"|26-10-2009|
+"GC18"||"Helena André"|"Ministra do Trabalho e da Solidariedade Social"|26-10-2009|
+"GC18"|3986|"Ana Jorge"|"Ministra da Saúde"|26-10-2009|
+"GC18"||"Isabel Alçada"|"Ministra da Educação"|26-10-2009|
+"GC18"||"Mariano Gago"|"Ministro da Ciência, Tecnologia e Ensino Superior"|26-10-2009|
+"GC18"|1851|"Gabriela Canavilhas"|"Ministra da Cultura"|26-10-2009|
+"GC18"|179|"Jorge Lacão"|"Ministro dos Assuntos Parlamentares"|26-10-2009|
