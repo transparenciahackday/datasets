@@ -9,7 +9,7 @@ Introdução
 
 Aqui estão listados os vários datasets que fomos fazendo no Transparência Hackday. A seguir a cada ficheiro estão descritas as diferentes colunas que lá podem ser encontradas.
 
-Na pasta 'imgs' estão as fotos dos deputados extraídas do site do Parlamento. Os nomes dos ficheiros são o valor numérico (ID) atribuído ao deputado no site do Parlamento. Este ID é também utilizado na maioria dos datasets para identificar inequivocamente cada pessoa.
+Na pasta 'fotos_deputados' estão as fotos dos deputados extraídas do site do Parlamento. Os nomes dos ficheiros são o valor numérico (ID) atribuído ao deputado no site do Parlamento. Este ID é também utilizado na maioria dos datasets para identificar inequivocamente cada pessoa.
 
 
 Descrições dos datasets
@@ -49,7 +49,7 @@ partidos.csv
 11. Website
 12. Correio electrónico
 
-factos.csv
+deputados-factos.csv
 ----------
 1. ID SQL
 2. ID parlamento.pt
@@ -62,8 +62,8 @@ regioes.csv
 1. Nome do círculo eleitoral
 2. Sufixo de género a usar com a região (a, o, e, os), ex. "dos Açores", "da Madeira", "de Lisboa"
 
-legislaturas.csv
-----------------
+deputados-legislaturas.csv
+--------------------------
 1. ID SQL
 2. ID parlamento.pt
 3. Legislatura em numeração romana
@@ -74,8 +74,8 @@ legislaturas.csv
 8. Tem registo de interesses associado a esta legislatura? (0. sim, 1. não)
 9. Data em que foi feito o download da informação
 
-actividades.csv
----------------
+deputados-actividades.csv
+-------------------------
 1. ID SQL
 2. ID parlamento.pt do/a deputado/a
 3. ?
@@ -87,8 +87,8 @@ actividades.csv
 9. Data em que foi feito o download
 10. ID externo
 
-links.csv
----------
+deputados-links.csv
+-------------------
 1. ID parlamento.pt
 2. Nome, abreviado? FIXME
 3. Cargo, no governo? FIXME
