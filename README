@@ -103,6 +103,14 @@ deputados-links.csv
 12. Programa de rádio
 13. Programa de televisão
 
+legislaturas.csv
+----------------
+1. Número ordinal da legislatura
+2. Ano de início
+3. Ano de fim
+
+TODO: Fazer um script para o scraping da página do Parlamento com as datas exactas:
+ - http://www.parlamento.pt/Paginas/GlossarioLegislatura.aspx
 
 Fontes
 ======
