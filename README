@@ -25,7 +25,7 @@ deputados-genero.csv
 1. ID parlamento.pt
 2. Género com base no nome (F para feminino, M para masculino e omissão para os que não foi possivel calcular o género)
 
-deputados.csv
+deputados_old.csv
 -------------
 1. ID SQL
 2. ID parlamento.pt
@@ -33,6 +33,12 @@ deputados.csv
 4. Data de nascimento
 5. Profissão
 6. Data em que foi feito o download da informação
+
+deputados.csv
+------------
+1. ID parlamento.pt
+2. Nome Completo
+3. Data em que foi feito o download da informação
 
 partidos.csv
 ------------
