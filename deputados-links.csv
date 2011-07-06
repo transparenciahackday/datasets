@@ -27,7 +27,7 @@
 26;"Arménio Santos";"Presidente da comissão de Trabalho e Segurança Social; Defesa; Assuntos Europeus";"asantos@psd.parlamento.pt";;;;;;;;;
 4018;"Artur Rêgo";;"arturrego@cds.parlamento.pt";;;;;;;;;
 4057;"Assunção Cristas";;"assuncaocristas@cds.parlamento.pt";"http://pt.wikipedia.org/wiki/Assun%C3%A7%C3%A3o_Cristas";"www.facebook.com/assuncaocristas";"twitter.com/ACristas";;;;;;
-1058;"Bernardino Soares";"Líder parlamentar; Saúde";"bs@pcp.parlamento.pt";"http://pt.wikipedia.org/wiki/Bernardino_Soares";;"twitter.com/BernardinoSoares";;;;"SIM";;
+1058;"Bernardino Soares";"Líder parlamentar; Saúde";"bs@pcp.parlamento.pt";"http://pt.wikipedia.org/wiki/Bernardino_Soares";;;;;;"SIM";;
 2729;"Bravo Nico";;"bravonico@ps.parlamento.pt";;;;"blogs.parlamento.pt/noentanto/";"www.bravonico.com";;;;
 1715;"Bruno Dias";"Orçamento e Finanças; Obras Públicas, Transportes e Comunicações";;;"www.facebook.com/brunoramosdias";;;;;;;
 4169;"Carina Oliveira";"Obras Públicas, Transportes e Comunicações";;;;;;;;;;
@@ -38,7 +38,7 @@
 2104;"Carlos Páscoa Gonçalves";"Negócios Estrangeiros e Comunidades; Assuntos Europeus";;;;;;;;;;
 3964;"Carlos São Martinho";"Economia e Inovação";;;;;;;;;;
 2522;"Catarina Marcelino";;;;"pt-pt.facebook.com/people/Catarina-Marcelino/1158301300";;;;;;;
-4161;"Catarina Martins";"Ética, Sociedade e Cultura";"catarina.martins@be.parlamento.pt";;;"twitter.com/catsm";"argolas.blogspot.com";;;;;
+4161;"Catarina Martins";"Ética, Sociedade e Cultura";"catarina.martins@be.parlamento.pt";;;"twitter.com/catarina_mart";"argolas.blogspot.com";;;;;
 2194;"Cecília Honório";"Assuntos europeus";"cecilia.honorio@be.parlamento.pt ";;;;;;;;;
 2419;"Cecília Meireles";;"cmeireles@cds.parlamento.pt";;;;;;;;;
 4087;"Celeste Amaro";"Economia e Inovação; Ética, Sociedade e Cultura";;;;;;;;;;
@@ -92,7 +92,7 @@
 4214;"João Antunes";"Obras Públicas, Transportes e Comunicações; Ambiente e Ordenamento do Território";;;;;;;;;;
 4166;"João Galamba";;;;;"twitter.com/Joaogalamba";"jugular.blogs.sapo.pt";;;;;
 390;"João Mota Amaral";;"mota.amaral@ar.parlamento.pt";"http://pt.wikipedia.org/wiki/Mota_Amaral";;;;"paginaspessoais.parlamento.pt/jbmotaamaral";;;;
-2234;"João Oliveira";"Assuntos Constitucionais, Direitos, Liberdades e Garantias; Ética, Sociedade e Cultura";;;;"twitter.com/joao_g_oliveira ";;;;"SIM";;
+2234;"João Oliveira";"Assuntos Constitucionais, Direitos, Liberdades e Garantias; Ética, Sociedade e Cultura";;;;"twitter.com/joao_g_oliveira";;;;"SIM";;
 2129;"João Paulo Correia    ";;"gp_ps@ps.parlamento.pt";;;;;;;;;
 456;"João Paulo Pedrosa";;"gp_ps@ps.parlamento.pt";;;;;;;;;
 1657;"João Pinho de Almeida";;"joaoalmeida@cds.parlamento.pt";;"www.facebook.com/people/Joao-Pinho-de-Almeida/580149754";;;;;;;
@@ -147,7 +147,7 @@
 1561;"Luís Montenegro";"Assuntos Constitucionais, Direitos, Liberdades e Garantias; Defesa";"luismontenegro@psd.parlamento.pt";;;;;;;;;
 413;"Luís Pita Ameixa";;"ameixa@ps.parlamento.pt";;;;;"paginaspessoais.parlamento.pt/ameixa/ ";;;;
 4144;"Luísa Roseira ";"Assuntos Europeus; Ambiente e Ordenamento do Território";;;"www.facebook.com/luisaroseira";;;;;;;
-2092;"Luísa Salgueiro";;;;"www.facebook.com/people/Luisa-Maria-Neves-Salgueiro/1636625836";"twitter.com/luisasalgueiro";;;;;;
+2092;"Luísa Salgueiro";;;;"www.facebook.com/people/Luisa-Maria-Neves-Salgueiro/1636625836";;;;;;;
 1666;"Luiz Fagundes Duarte";;"gp_ps@ps.parlamento.pt";"http://pt.wikipedia.org/wiki/Luiz_Fagundes_Duarte";;;;;;;;
 397;"Manuel Correia de Jesus";"Defesa";"cjesus@psd.parlamento.pt";;;;"domaraserra.blogs.sapo.pt";;;;;
 2214;"Manuel Mota";;;;;;"www.manuelmota.com.pt/blog ";"www.manuelmota.com.pt/";;;;
@@ -194,7 +194,7 @@
 4197;"Paula Santos";"Negócios Estrangeiros; Saúde; Ambiente e Ordenamento do Território";;;;;;;;;;
 1384;"Paulo Baptista Santos";"Agricultura e Pescas; Orçamento e Finanças";;;;;;;;;;
 2183;"Paulo Barradas";;"gp_ps@ps.parlamento.pt";;;;;;;;;
-2641;"Paulo Cavaleiro";"Obras Públicas, Transportes e Comunicações; Ambiente e Ordenamento do Território";;;;"twitter.com/pcavaleiro2009  ";;;;;;
+2641;"Paulo Cavaleiro";"Obras Públicas, Transportes e Comunicações; Ambiente e Ordenamento do Território";;;;;;;;;;
 3989;"Paulo Mota Pinto";"Presidente da comissão do Orçamento";;"http://pt.wikipedia.org/wiki/Paulo_Mota_Pinto";"www.facebook.com/people/Paulo-Mota-Pinto/1111773953";"twitter.com/paulomotapinto";;;;;;
 722;"Paulo Pedroso";;;;;"twitter.com/paulopedroso";"bancocorrido.blogspot.com; paulopedroso.blogspot.com; ocanhoto.blogspot.com";;;;;
 1741;"Paulo Pisco  ";;"gp_ps@ps.parlamento.pt";;;;;;;;;
@@ -202,11 +202,11 @@
 1922;"Pedro Brandão Rodrigues";;"pedropontebrandao@cds.parlamento.pt";;;;;;;;;
 1686;"Pedro Duarte";"Vice-presidente da bancada; Assuntos Europeus";"pduarte@psd.parlamento.pt";"http://pt.wikipedia.org/wiki/Pedro_Duarte";"www.facebook.com/pedromiguelduarte";"twitter.com/Pedro_Duarte";"pedroduarte.com/blog.asp";"pedroduarte.com";;;;
 2264;"Pedro Farmhouse";;"pfarmhouse@ps.parlamento.pt";;;;;;;;;
-3926;"Pedro Filipe Soares";;"pedro-filipe.soares@be.parlamento.pt";;;"twitter.com/PedrofgSoares ";;;;;;
+3926;"Pedro Filipe Soares";;"pedro-filipe.soares@be.parlamento.pt";;;"twitter.com/PedrofgSoares";;;;;;
 4085;"Pedro Lynce";"Vice-presidente da comissão de Agricultura e Pescas   ";;"http://pt.wikipedia.org/wiki/Pedro_Duarte";;;;;;;;
 1102;"Pedro Mota Soares";"Líder parlamentar";"pedromotasoares@cds.parlamento.pt";;"www.facebook.com/pedromotasoares";"twitter.com/pedromotasoares";;;;;;
 3945;"Pedro Rodrigues";"Educação e Ciência";;;;"twitter.com/pedro_rodrigues";;;;;;
-3990;"Pedro Saraiva";"Economia e Inovação; Educação e Ciência";;;;"twitter.com/psaraiva64";;;;;;
+3990;"Pedro Saraiva";"Economia e Inovação; Educação e Ciência";;;;;;;;;;
 839;"Pedro Soares";"Presidente da comissão de Agricultura e Pescas";"pedro.soares@be.parlamento.pt";;;;;;;;;
 1943;"Ramos Preto";;"ramospreto@ps.parlamento.pt";;;;;;;;;
 4143;"Raquel Coelho";"Educação e Ciência";;;;;;;;;;
@@ -219,8 +219,8 @@
 204;"Rosa Maria Albernaz";;"albernaz@ps.parlamento.pt";;;;;;;;;
 728;"Rosalina Martins";;"gp_ps@ps.parlamento.pt";;;;;;;;;
 1960;"Rosário Águas";"Vice-presidente da bancada; Saúde";"raguas@psd.parlamento.pt";;;;;;;;;
-1170;"Rui Pereira ";;"gp_ps@ps.parlamento.pt";;;;;;;;;
-4067;"Rui Prudêncio  ";;"gp_ps@ps.parlamento.pt";;;;;;;;;
+1170;"Rui Pereira";;"gp_ps@ps.parlamento.pt";;;;;;;;;
+4067;"Rui Prudêncio";;"gp_ps@ps.parlamento.pt";;;;;;;;;
 1264;"Sérgio Sousa Pinto";"Vice-presidente da bancada";;"http://pt.wikipedia.org/wiki/S%C3%A9rgio_Sousa_Pinto";;;;;;;;
 1238;"Sérgio Vieira";"Negócios Estrangeiros e Comunidades";"svieira@psd.parlamento.pt";;;"twitter.com/sergiovieira70";;;;;;
 4188;"Sofia Conde Cabral  ";;"gp_ps@ps.parlamento.pt";;;;;;;;;
