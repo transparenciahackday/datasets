@@ -246,7 +246,7 @@
 "GC11"|335|"Arlindo de Carvalho"|"Ministro da Saúde"|05-01-1990|30-10-1991
 "GC11"|114|"Leonor Beleza"|"Ministro da Saúde"|17-08-1987|05-01-1990
 "GC11"|270|"José Silva Peneda"|"Ministro do Emprego e da Segurança Social"|17-08-1987|30-10-1991
-"GC11"|293|"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|09-11-1990|30-10-1991
+"GC11"||"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|09-11-1990|30-10-1991
 "GC11"|287|"Joaquim Ferreira do Amaral"|"Ministro do Comércio e Turismo"|17-08-1987|09-11-1990
 "GC11"|356|"António Couto dos Santos"|"Ministro Adjunto da Juventude"|17-08-1987|30-10-1991
 "GC11"||"Carlos Borrego"|"Ministro do Ambiente e Recursos Naturais"|24-04-1991|30-10-1991
@@ -280,7 +280,7 @@
 "GC12"|335|"Arlindo de Carvalho"|"Ministro da Saúde"|31-10-1991|07-12-1993
 "GC12"|82|"José Falcão e Cunha"|"Ministro do Emprego e da Segurança Social"|07-12-1993|27-10-1995
 "GC12"|270|"José Silva Peneda"|"Ministro do Emprego e da Segurança Social"|31-10-1991|07-12-1993
-"GC12"|293|"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|31-10-1991|27-10-1995
+"GC12"||"Fernando Faria de Oliveira"|"Ministro do Comércio e Turismo"|31-10-1991|27-10-1995
 "GC12"|317|"Teresa Gouveia"|"Ministra do Ambiente e Recursos Naturais"|11-06-1993|27-10-1995
 "GC12"||"Carlos Borrego"|"Ministra do Ambiente e Recursos Naturais"|31-10-1991|11-06-1993
 "GC12"||"Carlos Coelho"|"Subsecretário de Estado Adjunto do Ministro da Educação"|25-07-1994|27-10-1995
@@ -347,7 +347,7 @@
 "GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro da Educação"|25-10-1999|14-09-2000
 "GC14"||"Júlio Pedrosa"|"Ministro da Educação"|03-07-2001|05-04-2002
 "GC14"|1278|"Augusto Santos Silva"|"Ministro da Educação"|14-09-2000|03-07-2001
-"GC14"|1345|"Manuela Arcanjo"|"Ministro da Saúde"|25-10-1999|03-07-2001
+"GC14"||"Manuela Arcanjo"|"Ministro da Saúde"|25-10-1999|03-07-2001
 "GC14"|153|"António Correia de Campos"|"Ministro da Saúde"|03-07-2001|05-04-2002
 "GC14"|163|"Eduardo Ferro Rodrigues"|"Ministro do Trabalho e da Solidariedade"|25-10-1999|10-03-2001
 "GC14"||"Paulo Pedroso"|"Ministro do Trabalho e da Solidariedade"|10-03-2001|05-04-2002
@@ -385,7 +385,7 @@
 "GC15"|3399|"António Bagão Félix"|"Ministro da Segurança Social e Trabalho"|06-04-2002|16-07-2004
 "GC15"|376|"Luís Valente de Oliveira"|"Ministro das Obras Públicas, Transportes e Habitação"|06-04-2002|05-04-2003
 "GC15"||"António Carmona Rodrigues"|"Ministro das Obras Públicas, Transportes e Habitação"|05-04-2003|16-07-2004
-"GC15"|1130|"Isaltino Morais"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|06-04-2002|05-04-2003
+"GC15"||"Isaltino Morais"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|06-04-2002|05-04-2003
 "GC15"|335|"Arlindo Cunha"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|21-05-2004|16-07-2004
 "GC15"||"Amílcar Theias"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|05-04-2003|21-05-2004
 "GC16"|315|"Pedro Santana Lopes"|"Primeiro-Ministro"|17-07-2004|11-03-2005
@@ -398,7 +398,7 @@
 "GC16"|3399|"António Bagão Félix"|"Ministro das Finanças e da Administração Pública"|17-07-2004|11-03-2005
 "GC16"||"António Monteiro"|"Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas"|17-07-2004|11-03-2005
 "GC16"||"Daniel Sanches"|"Ministro da Administração Interna"|17-07-2004|11-03-2005
-"GC16"||"José Pedro Aguiar-Branco"|"Ministro da Justiça"|17-07-2004|11-03-2005
+"GC16"|2061|"José Pedro Aguiar Branco"|"Ministro da Justiça"|17-07-2004|11-03-2005
 "GC16"|1638|"José Luís Arnaut"|"Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional"|17-07-2004|11-03-2005
 "GC16"||"Carlos da Costa Neves"|"Ministro da Agricultura, Pescas e Florestas"|17-07-2004|11-03-2005
 "GC16"||"Maria do Carmo Seabra"|"Ministra da Educação"|17-07-2004|11-03-2005
@@ -417,13 +417,13 @@
 "GC17"|588|"Diogo Freitas do Amaral"|"Ministro de Estado"|12-03-2005|03-07-2006
 "GC17"|538|"Luís Amado"|"Ministro dos Negócios Estrangeiros"|03-07-2006|25-10-2009
 "GC17"|588|"Diogo Freitas do Amaral"|"Ministro dos Negócios Estrangeiros"|12-03-2005|03-07-2006
-"GC17"|4132|"Teixeira dos Santos"|"Ministro de Estado"|21-07-2005|25-10-2009
+"GC17"||"Teixeira dos Santos"|"Ministro de Estado"|21-07-2005|25-10-2009
 "GC17"|156|"António Costa"|"Ministro de Estado"|12-03-2005|17-05-2007
 "GC17"||"Luís Campos e Cunha"|"Ministro de Estado"|12-03-2005|21-07-2005
 "GC17"||"Luís Campos e Cunha"|"Ministro das Finanças"|12-03-2005|21-07-2005
-"GC17"|4132|"Teixeira dos Santos"|"Ministro das Finanças"|21-07-2005|25-10-2009
+"GC17"||"Teixeira dos Santos"|"Ministro das Finanças"|21-07-2005|25-10-2009
 "GC17"|2050|"Manuel Pinho"|"Ministro da Economia e da Inovação"|12-03-2005|06-07-2009
-"GC17"|4132|"Teixeira dos Santos"|"Ministro da Economia e da Inovação"|06-07-2009|25-10-2009
+"GC17"||"Teixeira dos Santos"|"Ministro da Economia e da Inovação"|06-07-2009|25-10-2009
 "GC17"|2011|"Pedro Silva Pereira"|"Ministro da Presidência"|12-03-2005|25-10-2009
 "GC17"|538|"Luís Amado"|"Ministro da Defesa Nacional"|12-03-2005|03-07-2006
 "GC17"||"Nuno Severiano Teixeira"|"Ministro da Defesa Nacional"|03-07-2006|25-10-2009
@@ -441,22 +441,72 @@
 "GC17"|1672|"Isabel Pires de Lima"|"Ministro da Cultura"|12-03-2005|30-01-2008
 "GC17"||"José António Pinto Ribeiro"|"Ministro da Cultura"|30-01-2008|25-10-2009
 "GC17"|1278|"Augusto Santos Silva"|"Ministro dos Assuntos Parlamentares"|12-03-2005|25-10-2009
-"GC18"|285|"José Sócrates"|"Primeiro-Ministro"|26-10-2009|
-"GC18"|538|"Luís Amado"|"Ministro de Estado"|26-10-2009|
-"GC18"|538|"Luís Amado"|"Ministro dos Negócios Estrangeiros"|26-10-2009|
-"GC18"|4132|"Teixeira dos Santos"|"Ministro de Estado"|26-10-2009|
-"GC18"|4132|"Teixeira dos Santos"|"Ministro das Finanças"|26-10-2009|
-"GC18"|2011|"Pedro Silva Pereira"|"Ministro da Presidência"|26-10-2009|
-"GC18"|1278|"Augusto Santos Silva"|"Ministro da Defesa Nacional"|26-10-2009|
-"GC18"||"Rui Pereira"|"Ministro da Administração Interna"|26-10-2009|
-"GC18"|462|"Alberto Martins"|"Ministro da Justiça"|26-10-2009|
-"GC18"|1867|"José Vieira da Silva"|"Ministro da Economia, da Inovação e do Desenvolvimento"|26-10-2009|
-"GC18"||"António Serrano"|"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas"|26-10-2009|
-"GC18"||"António Mendonça"|"Ministro das Obras Públicas, Transportes e Comunicações"|26-10-2009|
-"GC18"||"Dulce Pássaro"|"Ministra do Ambiente e do Ordenamento do Território"|26-10-2009|
-"GC18"||"Helena André"|"Ministra do Trabalho e da Solidariedade Social"|26-10-2009|
-"GC18"|3986|"Ana Jorge"|"Ministra da Saúde"|26-10-2009|
-"GC18"||"Isabel Alçada"|"Ministra da Educação"|26-10-2009|
-"GC18"||"Mariano Gago"|"Ministro da Ciência, Tecnologia e Ensino Superior"|26-10-2009|
-"GC18"|1851|"Gabriela Canavilhas"|"Ministra da Cultura"|26-10-2009|
-"GC18"|179|"Jorge Lacão"|"Ministro dos Assuntos Parlamentares"|26-10-2009|
+"GC18"|285|"José Sócrates"|"Primeiro-Ministro"|26-10-2009|20-06-2011
+"GC18"|538|"Luís Amado"|"Ministro de Estado"|26-10-2009|20-06-2011
+"GC18"|538|"Luís Amado"|"Ministro dos Negócios Estrangeiros"|26-10-2009|20-06-2011
+"GC18"||"Teixeira dos Santos"|"Ministro de Estado"|26-10-2009|20-06-2011
+"GC18"||"Teixeira dos Santos"|"Ministro das Finanças"|26-10-2009|20-06-2011
+"GC18"|2011|"Pedro Silva Pereira"|"Ministro da Presidência"|26-10-2009|20-06-2011
+"GC18"|1278|"Augusto Santos Silva"|"Ministro da Defesa Nacional"|26-10-2009|20-06-2011
+"GC18"||"Rui Pereira"|"Ministro da Administração Interna"|26-10-2009|20-06-2011
+"GC18"|462|"Alberto Martins"|"Ministro da Justiça"|26-10-2009|20-06-2011
+"GC18"|1867|"José Vieira da Silva"|"Ministro da Economia, da Inovação e do Desenvolvimento"|26-10-2009|20-06-2011
+"GC18"||"António Serrano"|"Ministro da Agricultura, do Desenvolvimento Rural e das Pescas"|26-10-2009|20-06-2011
+"GC18"||"António Mendonça"|"Ministro das Obras Públicas, Transportes e Comunicações"|26-10-2009|20-06-2011
+"GC18"||"Dulce Pássaro"|"Ministra do Ambiente e do Ordenamento do Território"|26-10-2009|20-06-2011
+"GC18"||"Helena André"|"Ministra do Trabalho e da Solidariedade Social"|26-10-2009|20-06-2011
+"GC18"|3986|"Ana Jorge"|"Ministra da Saúde"|26-10-2009|20-06-2011
+"GC18"||"Isabel Alçada"|"Ministra da Educação"|26-10-2009|20-06-2011
+"GC18"||"Mariano Gago"|"Ministro da Ciência, Tecnologia e Ensino Superior"|26-10-2009|20-06-2011
+"GC18"|1851|"Gabriela Canavilhas"|"Ministra da Cultura"|26-10-2009|20-06-2011
+"GC18"|179|"Jorge Lacão"|"Ministro dos Assuntos Parlamentares"|26-10-2009|20-06-2011
+"GC19"|129|"Pedro Passos Coelho"|"Primeiro-Ministro"|21-06-2011|
+"GC19"||"Vítor Gaspar"|"Ministro de Estado"|21-06-2011|
+"GC19"||"Vítor Gaspar"|"Ministro das Finanças"|21-06-2011|
+"GC19"|1352|"Paulo Portas"|"Ministro de Estado"|21-06-2011|
+"GC19"|1352|"Paulo Portas"|"Ministro dos Negócios Estrangeiros"|21-06-2011|
+"GC19"|2061|"José Pedro Aguiar Branco"|"Ministro da Defesa Nacional"|21-06-2011|
+"GC19"|123|"Miguel Macedo"|"Ministro da Administração Interna"|21-06-2011|
+"GC19"|4434|"Paula Teixeira da Cruz"|"Ministra da Justiça"|21-06-2011|
+"GC19"|124|"Miguel Relvas"|"Ministro Adjunto e dos Assuntos Parlamentares"|21-06-2011|
+"GC19"||"Álvaro Santos Pereira"|"Ministro da Economia e do Emprego"|21-06-2011|
+"GC19"|4057|"Assunção Cristas"|"Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território"|21-06-2011|
+"GC19"||"Paulo Macedo"|"Ministro da Saúde"|21-06-2011|
+"GC19"||"Nuno Crato"|"Ministro da Educação e da Ciência"|21-06-2011|
+"GC19"|1102|"Pedro Mota Soares"|"Ministro da Solidariedade e da Segurança Social"|21-06-2011|
+"GC19"|1239|"Luís Marques Guedes"|"Secretário de Estado da Presidência do Conselho de Ministros"|21-06-2011|
+"GC19"|4293|"Carlos Moedas"|"Secretário de Estado Adjunto do Primeiro-Ministro"|21-06-2011|
+"GC19"|4310|"Francisco José Viegas"|"Secretário de Estado da Cultura"|21-06-2011|
+"GC19"||"Luís Morais Sarmento"|"Secretário de Estado do Orçamento"|21-06-2011|
+"GC19"||"Maria Luís Albuquerque"|"Secretária de Estado do Tesouro e das Finanças"|21-06-2011|
+"GC19"||"Paulo Núncio"|"Secretário de Estado dos Assuntos Fiscais"|21-06-2011|
+"GC19"||"Hélder Rosalino"|"Secretário de Estado da Administração Pública"|21-06-2011|
+"GC19"||"Miguel Morais Leitão"|"Secretário de Estado Adjunto e dos Assuntos Europeus"|21-06-2011|
+"GC19"||"Luís Brites Pereira"|"Secretário de Estado dos Negócios Estrangeiros e da Cooperação"|21-06-2011|
+"GC19"||"José Cesário"|"Secretário de Estado das Comunidades Portuguesas"|21-06-2011|
+"GC19"||"Vânia Dias da Silva"|"Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros"|21-06-2011|
+"GC19"||"Paulo Braga Lino"|"Secretário de Estado Adjunto e da Defesa Nacional"|21-06-2011|
+"GC19"||"Juvenal da Silva Peneda"|"Secretário de Estado Adjunto do Ministro da Administração Interna"|21-06-2011|
+"GC19"|4172|"Filipe Lobo d'Ávila"|"Secretário de Estado da Administração Interna"|21-06-2011|
+"GC19"||"Fernando Santo"|"Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça"|21-06-2011|
+"GC19"|1619|"Feliciano Barreiras Duarte"|"Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares"|21-06-2011|
+"GC19"|1897|"Teresa Morais"|"Secretária de Estado dos Assuntos Parlamentares e da Igualdade"|21-06-2011|
+"GC19"||"Paulo Simões Júlio"|"Secretário de Estado da Administração Local e Reforma Administrativa"|21-06-2011|
+"GC19"||"Alexandre Mestre"|"Secretário de Estado do Desporto e Juventude"|21-06-2011|
+"GC19"||"António Almeida Henriques"|"Secretário de Estado Adjunto da Economia e Desenvolvimento Regional"|21-06-2011|
+"GC19"||"Pedro Silva Martins"|"Secretário de Estado do Emprego"|21-06-2011|
+"GC19"||"Carlos Nuno Oliveira"|"Secretário de Estado do Empreendedorismo, Competitividade e Inovação"|21-06-2011|
+"GC19"||"Sérgio Silva Monteiro"|"Secretário de Estado das Obras Públicas, Transportes e Comunicações"|21-06-2011|
+"GC19"||"Artur Trindade"|"Secretário de Estado da Energia"|21-06-2011|
+"GC19"||"Cecília Meireles"|"Secretária de Estado do Turismo"|21-06-2011|
+"GC19"||"José Diogo Albuquerque"|"Secretário de Estado da Agricultura"|21-06-2011|
+"GC19"|1724|"Daniel Campelo"|"Secretário de Estado das Florestas e Desenvolvimento Rural"|21-06-2011|
+"GC19"||"Manuel Pinto de Abreu"|"Secretário de Estado do Mar"|21-06-2011|
+"GC19"||"Pedro Afonso de Paulo"|"Secretário de Estado do Ambiente e Ordenamento do Território"|21-06-2011|
+"GC19"||"Fernando Leal da Costa"|"Secretário de Estado Adjunto do Ministro da Saúde"|21-06-2011|
+"GC19"||"Manuel Ferreira Teixeira"|"Secretário de Estado da Saúde"|21-06-2011|
+"GC19"||"João Filipe Queiró"|"Secretário de Estado do Ensino Superior"|21-06-2011|
+"GC19"||"Leonor Parreira"|"Secretária de Estado da Ciência"|21-06-2011|
+"GC19"||"João Casanova de Almeida"|"Secretário de Estado do Ensino e Administração Escolar"|21-06-2011|
+"GC19"||"Isabel Leite"|"Secretária de Estado do Ensino Básico e Secundário"|21-06-2011|
+"GC19"|646|"Marco António Costa"|"Secretário de Estado da Solidariedade e da Segurança Social"|21-06-2011|
