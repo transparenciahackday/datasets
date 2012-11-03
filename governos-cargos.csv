@@ -329,7 +329,7 @@
 "GC14"|180|"Jorge Coelho"|"Ministro da Presidência"|25-10-1999|14-09-2000
 "GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro da Presidência"|14-09-2000|05-04-2002
 "GC14"|170|"Guilherme d'Oliveira Martins"|"Ministro das Finanças"|03-07-2001|05-04-2002
-"GC14"||"Joaquim Pina Moura"|"Ministro das Finanças"|25-10-1999|03-07-2001
+"GC14"|1267|"Joaquim Pina Moura"|"Ministro das Finanças"|25-10-1999|03-07-2001
 "GC14"|3601|"Rui Pena"|"Ministro da Defesa Nacional"|03-07-2001|05-04-2002
 "GC14"|3494|"Júlio Castro Caldas"|"Ministro da Defesa Nacional"|25-10-1999|03-07-2001
 "GC14"||"Nuno Severiano Teixeira"|"Ministro da Administração Interna"|14-09-2000|05-04-2002
@@ -363,11 +363,10 @@
 "GC14"|1260|"Fernando Gomes"|"Ministro Adjunto"|25-10-1999|14-09-2000
 "GC14"||"Maria do Céu Cunha Rego"|"Secretário de Estado para a Igualdade"|04-07-2001|05-04-2002
 "GC14"|1671|"Maria de Belém Roseira"|"Ministro da Igualdade"|25-10-1999|14-09-2000
+"GC14"|189|"José Magalhães"|"Secretário de Estado dos Assuntos Parlamentares"|18-09-2000|06-04-2002
 "GC15"|383|"José Manuel Durão Barroso"|"Primeiro-Ministro"|06-04-2002|16-07-2004
-"GC15"|319|"Manuela Ferreira Leite"|"Ministra de Estado"|06-04-2002|16-07-2004
-"GC15"|319|"Manuela Ferreira Leite"|"Ministra das Finanças"|06-04-2002|16-07-2004
-"GC15"|1352|"Paulo Portas"|"Ministro de Estado"|06-04-2002|16-07-2004
-"GC15"|1352|"Paulo Portas"|"Ministro da Defesa Nacional"|06-04-2002|16-07-2004
+"GC15"|319|"Manuela Ferreira Leite"|"Ministra de Estado e das Finanças"|06-04-2002|16-07-2004
+"GC15"|1352|"Paulo Portas"|"Ministro de Estado e da Defesa Nacional"|06-04-2002|16-07-2004
 "GC15"||"António Martins da Cruz"|"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas"|06-04-2002|09-10-2003
 "GC15"|317|"Teresa Gouveia"|"Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas"|09-10-2003|16-07-2004
 "GC15"|1441|"António Figueiredo Lopes"|"Ministro da Administração Interna"|06-04-2002|16-07-2004
@@ -389,8 +388,7 @@
 "GC15"|335|"Arlindo Cunha"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|21-05-2004|16-07-2004
 "GC15"||"Amílcar Theias"|"Ministro das Cidades, Ordenamento do Território e Ambiente"|05-04-2003|21-05-2004
 "GC16"|315|"Pedro Santana Lopes"|"Primeiro-Ministro"|17-07-2004|11-03-2005
-"GC16"|9|"Álvaro Barreto"|"Ministro de Estado"|17-07-2004|11-03-2005
-"GC16"|9|"Álvaro Barreto"|"Ministro das Actividades Económicas e do Trabalho"|17-07-2004|11-03-2005
+"GC16"|9|"Álvaro Barreto"|"Ministro de Estado, das Actividades Económicas e do Trabalho"|17-07-2004|11-03-2005
 "GC16"|1352|"Paulo Portas"|"Ministro de Estado"|17-07-2004|11-03-2005
 "GC16"|1352|"Paulo Portas"|"Ministro da Defesa Nacional e dos Assuntos do Mar"|17-07-2004|11-03-2005
 "GC16"|1980|"Nuno Morais Sarmento"|"Ministro de Estado"|17-07-2004|11-03-2005
